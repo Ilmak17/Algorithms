@@ -12,16 +12,8 @@ package trie;
  * - startsWith(prefix): Returns true if there is any string in the trie that starts with the given prefix.
  */
 
-class TrieNode {
-    TrieNode[] children = new TrieNode[26];
-    boolean isEnd;
-
-    public TrieNode() {}
-
-}
-
 public class ImplementTrie_208 {
-    private TrieNode root;
+    private final TrieNode root;
 
     public ImplementTrie_208() {
         root = new TrieNode();
