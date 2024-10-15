@@ -12,3 +12,4 @@
 
 - [Arrays & Hashing](src/arraysHashing/README.md)
   - [Group Anagrams (49)](src/arraysHashing/GroupAnagrams_49.java)
+  - [Top K Frequent Elements (347)](src/arraysHashing/TopKFrequentElements_347.java)
