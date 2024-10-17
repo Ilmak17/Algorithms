@@ -16,3 +16,4 @@
   - [Encode And Decode Strings (271)](src/arraysHashing/EncodeAndDecode_271.java)
   - [Product of Array Except Self (238)](src/arraysHashing/ProductExceptSelf_238.java)
   - [Valid Sudoku (36)](src/arraysHashing/ValidSudoku_36.java)
+  - [Longest Consecutive Sequence (128)](src/arraysHashing/LongestConsecutiveSequence_128.java)

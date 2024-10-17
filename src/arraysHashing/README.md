@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 36](https://leetcode.com/problems/valid-sudoku/)
 - **Solution Code**: [ValidSudoku_36.java](ValidSudoku_36.java)
+
+### Problem: Longest Consecutive Sequence  - LeetCode 128
+
+- **Link to problem**: [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)
+- **Solution Code**: [LongestConsecutiveSequence_128.java](LongestConsecutiveSequence_128.java)
