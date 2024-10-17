@@ -15,7 +15,12 @@
 - **Link to problem**: [LeetCode 271](https://leetcode.com/problems/encode-and-decode-strings/)
 - **Solution Code**: [EncodeAndDecode_271.java](EncodeAndDecode_271.java)
 
-### Problem:Product of Array Except Self  - LeetCode 238
+### Problem: Product of Array Except Self  - LeetCode 238
 
 - **Link to problem**: [LeetCode 238](https://leetcode.com/problems/product-of-array-except-self/)
 - **Solution Code**: [ProductExceptSelf_238.java](ProductExceptSelf_238.java)
+
+### Problem: Valid Sudoku  - LeetCode 36
+
+- **Link to problem**: [LeetCode 36](https://leetcode.com/problems/valid-sudoku/)
+- **Solution Code**: [ValidSudoku_36.java](ValidSudoku_36.java)
