@@ -2,7 +2,7 @@ package twopointers;
 
 /*
  * LeetCode Problem 125: Valid Palindrome
- * Difficulty: East
+ * Difficulty: Easy
  *
  * Problem Statement:
  * A phrase is a palindrome if, after converting all
