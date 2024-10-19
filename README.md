@@ -21,3 +21,4 @@
 - [Two pointers](src/arraysHashing/README.md)
   - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
   - [Two Sum II - Input Array Is Sorted (167)](src/twopointers/TwoSum2_167.java)
+  - [3 Sum (15)](src/twopointers/ThreeSum_15.java)

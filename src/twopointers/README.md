@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - **Solution Code**: [TwoSum2_167.java](TwoSum2_167.java)
+
+### Problem: 3 Sum  - LeetCode 15
+
+- **Link to problem**: [LeetCode 15](https://leetcode.com/problems/3sum/)
+- **Solution Code**: [ThreeSum_15.java](ThreeSum_15.java)
