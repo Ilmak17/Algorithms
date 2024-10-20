@@ -1,4 +1,4 @@
-package twopointers;
+package stack;
 
 /*
  * LeetCode Problem 20: Valid Parentheses
