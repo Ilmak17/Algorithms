@@ -27,3 +27,4 @@
 - [Stack](src/stack/README.md)
   - [Valid Parentheses (20)](src/stack/ValidParentheses_20.java)
   - [Min Stack (155)](src/stack/MinStack_155.java)
+  - [Daily Temperatures (739)](src/stack/DailyTemperatures_739.java)
