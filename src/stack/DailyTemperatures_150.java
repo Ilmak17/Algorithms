@@ -1,7 +1,7 @@
 package stack;
 
 /*
- * LeetCode Problem 739. Daily Temperatures
+ * LeetCode Problem 739: Daily Temperatures
  * Difficulty: Medium
  *
  * Problem Statement:
