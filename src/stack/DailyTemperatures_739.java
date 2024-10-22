@@ -12,6 +12,8 @@ package stack;
  */
 
 
+import java.util.Stack;
+
 public class DailyTemperatures_739 {
 
     public int[] dailyTemperatures(int[] temperatures) {

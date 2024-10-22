@@ -17,6 +17,8 @@ package stack;
  */
 
 
+import java.util.Stack;
+
 public class EvaluateReversePolishNotation_739 {
 
     public int evalRPN(String[] tokens) {

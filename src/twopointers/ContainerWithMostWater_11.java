@@ -12,11 +12,7 @@ package twopointers;
  * Notice that you may not slant the container.
  */
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class ContainerWithMostWater_11.java {
+public class ContainerWithMostWater_11 {
 
     public int maxArea(int[] height) {
         int left = 0;

@@ -9,6 +9,8 @@ package stack;
  */
 
 
+import java.util.Stack;
+
 class Pair {
     int val;
     int minVal;
