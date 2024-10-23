@@ -30,3 +30,6 @@
   - [Daily Temperatures (739)](src/stack/DailyTemperatures_739.java)
   - [Car Fleet (853)](src/stack/CarFleet_853.java)
   - [Evaluate Reverse Polish Notation (739)](src/stack/EvaluateReversePolishNotation_739.java)
+
+- [Backtracking](src/backtracking/README.md)
+  - [Generate Parentheses (20)](src/backtracking/GenerateParentheses_22.java)

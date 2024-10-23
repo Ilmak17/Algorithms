@@ -10,6 +10,8 @@ package stack;
  */
 
 
+import java.util.Stack;
+
 public class ValidParentheses_20 {
 
     public boolean isValid(String s) {
