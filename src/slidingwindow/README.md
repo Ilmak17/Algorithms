@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - **Solution Code**: [LongestSubstringWithoutRepeatingCharacters_3.java](LongestSubstringWithoutRepeatingCharacters_3.java)
+
+### Problem: Permutation in String  - LeetCode 567
+
+- **Link to problem**: [LeetCode 567](https://leetcode.com/problems/permutation-in-string/)
+- **Solution Code**: [PermutationInString_567.java](PermutationInString_567.java)
