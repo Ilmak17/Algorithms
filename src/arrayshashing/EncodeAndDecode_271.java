@@ -1,4 +1,4 @@
-package arraysHashing;
+package arrayshashing;
 
 /*
  * LeetCode Problem 271: String Encode and Decode

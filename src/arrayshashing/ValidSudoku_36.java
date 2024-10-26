@@ -1,4 +1,4 @@
-package arraysHashing;
+package arrayshashing;
 
 /*
  * LeetCode Problem 36: Valid Sudoku

@@ -1,4 +1,4 @@
-package arraysHashing;
+package arrayshashing;
 
 /*
  * LeetCode 128: Longest Consecutive Sequence
