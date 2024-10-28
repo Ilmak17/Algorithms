@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 143](https://leetcode.com/problems/reorder-list/)
 - **Solution Code**: [ReorderList_143.java](ReorderList_143.java)
+
+### Problem: Merge Two Sorted Lists - LeetCode 21
+
+- **Link to problem**: [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+- **Solution Code**: [MergeTwoSortedLists_21.java](MergeTwoSortedLists_21.java)
