@@ -45,6 +45,7 @@
   - [Remove Nth Node From End of List (19)](src/linkedlist/RemoveNthNodeFromEndOfList_19.java)
   - [Reorder List (143)](src/linkedlist/ReorderList_143.java)
   - [Merge Two Sorted Lists (23)](src/linkedlist/MergeTwoSortedLists_21.java)
+  - [Copy List with Random Pointer (138)](src/linkedlist/CopyLinkedList_138.java)
 
 - [Binary Search](src/binarysearch/README.md)
   - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)

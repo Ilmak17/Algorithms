@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
 - **Solution Code**: [MergeTwoSortedLists_21.java](MergeTwoSortedLists_21.java)
+
+### Problem: Copy List with Random Pointer - LeetCode 138
+
+- **Link to problem**: [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- **Solution Code**: [CopyLinkedList_138.java](CopyLinkedList_138.java)
