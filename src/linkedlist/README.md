@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - **Solution Code**: [CopyLinkedList_138.java](CopyLinkedList_138.java)
+
+### Problem: Add Two Numbers - LeetCode 2
+
+- **Link to problem**: [LeetCode 138](https://leetcode.com/problems/add-two-numbers/)
+- **Solution Code**: [AddTwoNumber_2.java](AddTwoNumber_2.java)
