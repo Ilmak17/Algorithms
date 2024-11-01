@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 138](https://leetcode.com/problems/add-two-numbers/)
 - **Solution Code**: [AddTwoNumber_2.java](AddTwoNumber_2.java)
+
+### Problem: Find the Duplicate Number - LeetCode 287
+
+- **Link to problem**: [LeetCode 287](https://leetcode.com/problems/find-the-duplicate-number/)
+- **Solution Code**: [FindDuplicateNumber_287.java](FindDuplicateNumber_287.java)

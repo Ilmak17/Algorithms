@@ -1,7 +1,7 @@
 package twopointers;
 
 /*
- * LeetCode Problem 11. Container With Most Water
+ * LeetCode Problem 11: Container With Most Water
  * Difficulty: Medium
  *
  * Problem Statement:

@@ -47,6 +47,7 @@
   - [Merge Two Sorted Lists (23)](src/linkedlist/MergeTwoSortedLists_21.java)
   - [Copy List with Random Pointer (138)](src/linkedlist/CopyLinkedList_138.java)
   - [Add Two Numbers (2)](src/linkedlist/AddTwoNumber_2.java)
+  - [Find the Duplicate Number (287)](src/linkedlist/FindDuplicateNumber_287.java)
 
 - [Binary Search](src/binarysearch/README.md)
   - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
