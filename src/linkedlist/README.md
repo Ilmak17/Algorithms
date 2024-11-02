@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 287](https://leetcode.com/problems/find-the-duplicate-number/)
 - **Solution Code**: [FindDuplicateNumber_287.java](FindDuplicateNumber_287.java)
+
+### Problem: LRU Cache - LeetCode 146
+
+- **Link to problem**: [LeetCode 146](https://leetcode.com/problems/lru-cache/)
+- **Solution Code**: [LRUCache_146.java](LRUCache_146.java)
