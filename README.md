@@ -53,3 +53,4 @@
 - [Binary Search](src/binarysearch/README.md)
   - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
   - [Search a 2D Matrix (74)](src/binarysearch/Search2DMatrix_74.java)
+  - [Koko Eating Bananas (875)](src/binarysearch/KokoEatingBananas_875.java)

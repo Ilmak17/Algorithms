@@ -10,3 +10,8 @@
 - **Link to problem**: [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/)
 - **Solution Code**: [Search2DMatrix_74.java](Search2DMatrix_74.java)
 
+### Problem: Koko Eating Bananas  - LeetCode 875
+
+- **Link to problem**: [LeetCode 875](https://leetcode.com/problems/koko-eating-bananas/)
+- **Solution Code**: [KokoEatingBananas_875.java](KokoEatingBananas_875.java)
+
