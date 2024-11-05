@@ -54,3 +54,4 @@
   - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
   - [Search a 2D Matrix (74)](src/binarysearch/Search2DMatrix_74.java)
   - [Koko Eating Bananas (875)](src/binarysearch/KokoEatingBananas_875.java)
+  - [Search in Rotated Sorted Array (33)](src/binarysearch/SearchInRotatedSortedArray_33.java)

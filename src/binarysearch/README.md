@@ -15,3 +15,8 @@
 - **Link to problem**: [LeetCode 875](https://leetcode.com/problems/koko-eating-bananas/)
 - **Solution Code**: [KokoEatingBananas_875.java](KokoEatingBananas_875.java)
 
+### Problem: Search in Rotated Sorted Array  - LeetCode 33
+
+- **Link to problem**: [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- **Solution Code**: [SearchInRotatedSortedArray_33.java](SearchInRotatedSortedArray_33.java)
+
