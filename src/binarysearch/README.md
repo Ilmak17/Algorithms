@@ -20,3 +20,8 @@
 - **Link to problem**: [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - **Solution Code**: [SearchInRotatedSortedArray_33.java](SearchInRotatedSortedArray_33.java)
 
+### Problem: Find Minimum in Rotated Sorted Array  - LeetCode 153
+
+- **Link to problem**: [LeetCode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- **Solution Code**: [FindMinInRotatedSortedArray_153.java](FindMinInRotatedSortedArray_153.java)
+
