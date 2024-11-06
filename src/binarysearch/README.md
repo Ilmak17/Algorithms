@@ -25,3 +25,7 @@
 - **Link to problem**: [LeetCode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - **Solution Code**: [FindMinInRotatedSortedArray_153.java](FindMinInRotatedSortedArray_153.java)
 
+### Problem: Time Based Key-Value Store  - LeetCode 981
+
+- **Link to problem**: [LeetCode 981](https://leetcode.com/problems/time-based-key-value-store/)
+- **Solution Code**: [TimeMap_981.java](TimeMap_981.java)
