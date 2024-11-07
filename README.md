@@ -57,3 +57,6 @@
   - [Search in Rotated Sorted Array (33)](src/binarysearch/SearchInRotatedSortedArray_33.java)
   - [Find Minimum in Rotated Sorted Array (153)](src/binarysearch/FindMinInRotatedSortedArray_153.java)
   - [Time Based Key-Value Store (981)](src/binarysearch/TimeMap_981.java)
+
+- [Tree](src/tree/README.md)
+  - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
