@@ -2,7 +2,7 @@ package tree;
 
 /*
  * LeetCode Problem 226: Invert Binary Tree
- * Difficulty: Medium
+ * Difficulty: Easy
  *
  * Problem Statement:
  * Given the root of a binary tree, invert the tree, and return its root.

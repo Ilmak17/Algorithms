@@ -60,3 +60,4 @@
 
 - [Tree](src/tree/README.md)
   - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
+  - [Maximum Depth of Binary Tree (104)](src/tree/MaximumDepthBinaryTree_104.java)
