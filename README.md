@@ -62,3 +62,4 @@
   - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
   - [Maximum Depth of Binary Tree (104)](src/tree/MaximumDepthBinaryTree_104.java)
   - [Balanced Binary Tree (110)](src/tree/BalancedBinaryTree_110.java)
+  - [Diameter of Binary Tree (543)](src/tree/DiameterBinaryTree_543.java)

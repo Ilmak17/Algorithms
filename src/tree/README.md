@@ -14,3 +14,8 @@
 
 - **Link to problem**: [LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/)
 - **Solution Code**: [BalancedBinaryTree_110.java](BalancedBinaryTree_110.java)
+
+### Problem: Diameter of Binary Tree - LeetCode 543
+
+- **Link to problem**: [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
+- **Solution Code**: [DiameterBinaryTree_543.java](DiameterBinaryTree_543.java)
