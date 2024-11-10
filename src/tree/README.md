@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 572](https://leetcode.com/problems/subtree-of-another-tree/)
 - **Solution Code**: [SubtreeOfAnotherTree_572.java](SubtreeOfAnotherTree_572.java)
+
+### Problem: Same Tree - LeetCode 100
+
+- **Link to problem**: [LeetCode 572](https://leetcode.com/problems/same-tree/)
+- **Solution Code**: [IsSameTree_100.java](IsSameTree_100.java)
