@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
 - **Solution Code**: [DiameterBinaryTree_543.java](DiameterBinaryTree_543.java)
+
+### Problem: Subtree of Another Tree - LeetCode 572
+
+- **Link to problem**: [LeetCode 572](https://leetcode.com/problems/subtree-of-another-tree/)
+- **Solution Code**: [SubtreeOfAnotherTree_572.java](SubtreeOfAnotherTree_572.java)
