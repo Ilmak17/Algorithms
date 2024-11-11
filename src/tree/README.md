@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 572](https://leetcode.com/problems/same-tree/)
 - **Solution Code**: [IsSameTree_100.java](IsSameTree_100.java)
+
+### Problem: Lowest Common Ancestor of a Binary Search Tree - LeetCode 235
+
+- **Link to problem**: [LeetCode 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- **Solution Code**: [LCABinarySearchTree_235.java](LCABinarySearchTree_235.java)

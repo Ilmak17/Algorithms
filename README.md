@@ -65,3 +65,4 @@
   - [Diameter of Binary Tree (543)](src/tree/DiameterBinaryTree_543.java)
   - [Subtree of Another Tree (572)](src/tree/SubtreeOfAnotherTree_572.java)
   - [Same Tree (100)](src/tree/IsSameTree_100.java)
+  - [Lowest Common Ancestor of a Binary Search Tree (235)](src/tree/LCABinarySearchTree_235.java)
