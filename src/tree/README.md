@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - **Solution Code**: [BinaryTreeLevelOrderTraversal_102.java](BinaryTreeLevelOrderTraversal_102.java)
+
+### Problem: Binary Tree Right Side View - LeetCode 199
+
+- **Link to problem**: [LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
+- **Solution Code**: [BinaryTreeRightSideView_199.java](BinaryTreeRightSideView_199.java)
