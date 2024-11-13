@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
 - **Solution Code**: [BinaryTreeRightSideView_199.java](BinaryTreeRightSideView_199.java)
+
+### Problem: Count Good Nodes in Binary Tree - LeetCode 1448
+
+- **Link to problem**: [LeetCode 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- **Solution Code**: [CountGoodNodesBinaryTree_1448.java](CountGoodNodesBinaryTree_1448.java)

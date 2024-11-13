@@ -68,3 +68,4 @@
   - [Lowest Common Ancestor of a Binary Search Tree (235)](src/tree/LCABinarySearchTree_235.java)
   - [Binary Tree Level Order Traversal (102)](src/tree/BinaryTreeLevelOrderTraversal_102.java)
   - [Binary Tree Right Side View (199)](src/tree/BinaryTreeRightSideView_199.java)
+  - [Count Good Nodes in Binary Tree (1448)](src/tree/CountGoodNodesBinaryTree_1448.java)
