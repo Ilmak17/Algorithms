@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - **Solution Code**: [CountGoodNodesBinaryTree_1448.java](CountGoodNodesBinaryTree_1448.java)
+
+### Problem: Validate Binary Search Tree - LeetCode 98
+
+- **Link to problem**: [LeetCode 1448](https://leetcode.com/problems/validate-binary-search-tree/)
+- **Solution Code**: [ValidateBinarySearchTree_98.java](ValidateBinarySearchTree_98.java)
