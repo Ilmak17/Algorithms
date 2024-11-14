@@ -70,3 +70,4 @@
   - [Binary Tree Right Side View (199)](src/tree/BinaryTreeRightSideView_199.java)
   - [Count Good Nodes in Binary Tree (1448)](src/tree/CountGoodNodesBinaryTree_1448.java)
   - [Validate Binary Search Tree (98)](src/tree/ValidateBinarySearchTree_98.java)
+  - [Kth Smallest Element in a BST (230)](src/tree/KthSmallestElementBST_230.java)

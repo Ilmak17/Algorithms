@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 1448](https://leetcode.com/problems/validate-binary-search-tree/)
 - **Solution Code**: [ValidateBinarySearchTree_98.java](ValidateBinarySearchTree_98.java)
+
+### Problem: Kth Smallest Element in a BST - LeetCode 230
+
+- **Link to problem**: [LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- **Solution Code**: [KthSmallestElementBST_230.java](KthSmallestElementBST_230.java)
