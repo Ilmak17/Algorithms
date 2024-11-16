@@ -71,3 +71,4 @@
   - [Count Good Nodes in Binary Tree (1448)](src/tree/CountGoodNodesBinaryTree_1448.java)
   - [Validate Binary Search Tree (98)](src/tree/ValidateBinarySearchTree_98.java)
   - [Kth Smallest Element in a BST (230)](src/tree/KthSmallestElementBST_230.java)
+  - [Construct Binary Tree from Preorder and Inorder Traversal (105)](src/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)

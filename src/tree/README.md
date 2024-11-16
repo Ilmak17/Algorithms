@@ -27,7 +27,7 @@
 
 ### Problem: Same Tree - LeetCode 100
 
-- **Link to problem**: [LeetCode 572](https://leetcode.com/problems/same-tree/)
+- **Link to problem**: [LeetCode 100](https://leetcode.com/problems/same-tree/)
 - **Solution Code**: [IsSameTree_100.java](IsSameTree_100.java)
 
 ### Problem: Lowest Common Ancestor of a Binary Search Tree - LeetCode 235
@@ -52,10 +52,15 @@
 
 ### Problem: Validate Binary Search Tree - LeetCode 98
 
-- **Link to problem**: [LeetCode 1448](https://leetcode.com/problems/validate-binary-search-tree/)
+- **Link to problem**: [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/)
 - **Solution Code**: [ValidateBinarySearchTree_98.java](ValidateBinarySearchTree_98.java)
 
 ### Problem: Kth Smallest Element in a BST - LeetCode 230
 
 - **Link to problem**: [LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - **Solution Code**: [KthSmallestElementBST_230.java](KthSmallestElementBST_230.java)
+
+### Problem: Construct Binary Tree from Preorder and Inorder Traversal - LeetCode 105
+
+- **Link to problem**: [LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversa/)
+- **Solution Code**: [ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java](ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)
