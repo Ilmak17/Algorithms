@@ -76,3 +76,4 @@
 - [Heap](src/heap/README.md)
   - [Kth Largest Element in a Stream (703)](src/heap/KthLargestElementInStream.java)
   - [Last Stone Weight (1046)](src/heap/LastStoneWeight_1046.java)
+  - [Kth Largest Element in an Array (215)](src/heap/KthLargestElementInArray.java)
