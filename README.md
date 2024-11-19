@@ -74,6 +74,7 @@
   - [Construct Binary Tree from Preorder and Inorder Traversal (105)](src/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)
 
 - [Heap](src/heap/README.md)
-  - [Kth Largest Element in a Stream (703)](src/heap/KthLargestElementInStream.java)
+  - [Kth Largest Element in a Stream (703)](src/heap/KthLargestElementInStream_703.java)
   - [Last Stone Weight (1046)](src/heap/LastStoneWeight_1046.java)
-  - [Kth Largest Element in an Array (215)](src/heap/KthLargestElementInArray.java)
+  - [Kth Largest Element in an Array (215)](src/heap/KthLargestElementInArray_215.java)
+  - [K Closest Points to Origin (973)](src/heap/KClosestPointsToOrigin_973.java)

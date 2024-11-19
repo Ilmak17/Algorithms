@@ -17,11 +17,11 @@ package heap;
 
 import java.util.PriorityQueue;
 
-public class KthLargestElementInStream {
+public class KthLargestElementInStream_703 {
     private final PriorityQueue<Integer> q;
     private final int k;
 
-    public KthLargestElementInStream(int k, int[] nums) {
+    public KthLargestElementInStream_703(int k, int[] nums) {
         this.k = k;
         this.q = new PriorityQueue<>();
 
