@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/)
 - **Solution Code**: [KClosestPointsToOrigin_973.java](KClosestPointsToOrigin_973.java)
+
+### Problem: Task Scheduler - LeetCode 621
+
+- **Link to problem**: [LeetCode 621](https://leetcode.com/problems/task-scheduler/)
+- **Solution Code**: [TaskScheduler_621.java](TaskScheduler_621.java)

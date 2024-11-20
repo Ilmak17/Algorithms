@@ -78,3 +78,4 @@
   - [Last Stone Weight (1046)](src/heap/LastStoneWeight_1046.java)
   - [Kth Largest Element in an Array (215)](src/heap/KthLargestElementInArray_215.java)
   - [K Closest Points to Origin (973)](src/heap/KClosestPointsToOrigin_973.java)
+  - [Task Scheduler (621)](src/heap/TaskScheduler_621.java)
