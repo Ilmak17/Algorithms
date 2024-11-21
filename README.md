@@ -79,3 +79,4 @@
   - [Kth Largest Element in an Array (215)](src/heap/KthLargestElementInArray_215.java)
   - [K Closest Points to Origin (973)](src/heap/KClosestPointsToOrigin_973.java)
   - [Task Scheduler (621)](src/heap/TaskScheduler_621.java)
+  - [Design Twitter (355)](src/heap/DesignTwitter_355.java)

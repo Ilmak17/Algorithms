@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 621](https://leetcode.com/problems/task-scheduler/)
 - **Solution Code**: [TaskScheduler_621.java](TaskScheduler_621.java)
+
+### Problem: Design Twitter - LeetCode 355
+
+- **Link to problem**: [LeetCode 355](https://leetcode.com/problems/design-twitter/)
+- **Solution Code**: [DesignTwitter_355.java](DesignTwitter_355.java)
