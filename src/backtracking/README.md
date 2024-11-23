@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 78](https://leetcode.com/problems/subsets/)
 - **Solution Code**: [Subsets_78.java](Subsets_78.java)
+
+### Problem: Combination Sum - LeetCode 39
+
+- **Link to problem**: [LeetCode 39](https://leetcode.com/problems/combinatino-sum/)
+- **Solution Code**: [CombinationSum_39.java](CombinationSum_39.java)
