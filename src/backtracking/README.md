@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 46](https://leetcode.com/problems/permutations/)
 - **Solution Code**: [Permutations_46.java](Permutations_46.java)
+
+### Problem: Subsets II - LeetCode 90
+
+- **Link to problem**: [LeetCode 90](https://leetcode.com/problems/subsets-ii/)
+- **Solution Code**: [SubsetsII_90.java](SubsetsII_90.java)
