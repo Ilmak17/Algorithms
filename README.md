@@ -35,6 +35,7 @@
   - [Generate Parentheses (20)](src/backtracking/GenerateParentheses_22.java)
   - [Subsets (78)](src/backtracking/Subsets_78.java)
   - [Combination Sum (39)](src/backtracking/CombinationSum_39.java)
+  - [Permutations (46)](src/backtracking/Permutations_46.java)
 
 - [Sliding Window](src/slidingwindow/README.md)
   - [Longest Repeating Character Replacement (424)](src/slidingwindow/LongestRepeatingCharacterReplacement_424.java)

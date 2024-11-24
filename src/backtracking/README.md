@@ -14,3 +14,8 @@
 
 - **Link to problem**: [LeetCode 39](https://leetcode.com/problems/combinatino-sum/)
 - **Solution Code**: [CombinationSum_39.java](CombinationSum_39.java)
+
+### Problem: Permutations - LeetCode 46
+
+- **Link to problem**: [LeetCode 46](https://leetcode.com/problems/permutations/)
+- **Solution Code**: [Permutations_46.java](Permutations_46.java)
