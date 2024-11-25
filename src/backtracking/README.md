@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 90](https://leetcode.com/problems/subsets-ii/)
 - **Solution Code**: [SubsetsII_90.java](SubsetsII_90.java)
+
+### Problem: Combination Sum II - LeetCode 40
+
+- **Link to problem**: [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)
+- **Solution Code**: [CombinationSumII_40.java](CombinationSumII_40.java)
