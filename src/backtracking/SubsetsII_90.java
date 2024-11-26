@@ -24,7 +24,6 @@ public class SubsetsII_90 {
         return res;
     }
 
-
     private void backtrack(int[] nums, int idx, List<Integer> subset, List<List<Integer>> subsets) {
         if (idx >= nums.length) {
             subsets.add(new ArrayList<>(subset));

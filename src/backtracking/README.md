@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)
 - **Solution Code**: [CombinationSumII_40.java](CombinationSumII_40.java)
+
+### Problem: Word Search - LeetCode 79
+
+- **Link to problem**: [LeetCode 79](https://leetcode.com/problems/word-search/)
+- **Solution Code**: [WordSearch_79.java](WordSearch_79.java)
