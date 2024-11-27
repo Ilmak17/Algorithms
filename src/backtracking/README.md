@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 79](https://leetcode.com/problems/word-search/)
 - **Solution Code**: [WordSearch_79.java](WordSearch_79.java)
+
+### Problem: Palindrome Partitioning - LeetCode 131
+
+- **Link to problem**: [LeetCode 131](https://leetcode.com/problems/palindrome-partitioning/)
+- **Solution Code**: [PalindromePartitioning_131.java](PalindromePartitioning_131.java)
