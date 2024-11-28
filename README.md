@@ -40,6 +40,7 @@
   - [Combination Sum II (40)](src/backtracking/CombinationSumII_40.java)
   - [Word Search (79)](src/backtracking/WordSearch_79.java)
   - [Palindrome Partitioning (131)](src/backtracking/PalindromePartitioning_131.java)
+  - [Letter Combinations of a Phone Number (17)](src/backtracking/LetterCombinationsOfPhoneNumber_17.java)
 
 - [Sliding Window](src/slidingwindow/README.md)
   - [Longest Repeating Character Replacement (424)](src/slidingwindow/LongestRepeatingCharacterReplacement_424.java)

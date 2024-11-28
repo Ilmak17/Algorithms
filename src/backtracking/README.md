@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 131](https://leetcode.com/problems/palindrome-partitioning/)
 - **Solution Code**: [PalindromePartitioning_131.java](PalindromePartitioning_131.java)
+
+### Problem: Letter Combinations of a Phone Number - LeetCode 17
+
+- **Link to problem**: [LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- **Solution Code**: [LetterCombinationsOfPhoneNumber_17.java](LetterCombinationsOfPhoneNumber_17.java)
