@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 286](https://leetcode.com/problems/waves-and-gates/)
 - **Solution Code**: [WallsAndGates_286.java](WallsAndGates_286.java)
+
+### Problem: Rotting Oranges - LeetCode 994
+
+- **Link to problem**: [LeetCode 994](https://leetcode.com/problems/rotting-oranges/)
+- **Solution Code**: [RottingOranges_994.java](RottingOranges_994.java)
