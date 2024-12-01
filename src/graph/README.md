@@ -14,3 +14,8 @@
 
 - **Link to problem**: [LeetCode 133](https://leetcode.com/problems/clone-graph/)
 - **Solution Code**: [CloneGraph_133.java](CloneGraph_133.java)
+
+### Problem: Walls And Gates - LeetCode 286
+
+- **Link to problem**: [LeetCode 286](https://leetcode.com/problems/waves-and-gates/)
+- **Solution Code**: [WallsAndGates_286.java](WallsAndGates_286.java)
