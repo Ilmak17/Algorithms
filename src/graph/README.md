@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 130](https://leetcode.com/problems/surrounded-regions/)
 - **Solution Code**: [SurroundedRegions_130.java](SurroundedRegions_130.java)
+
+### Problem: Course Schedule - LeetCode 207
+
+- **Link to problem**: [LeetCode 207](https://leetcode.com/problems/course-schedule/)
+- **Solution Code**: [CourseSchedule_207.java](CourseSchedule_207.java)
