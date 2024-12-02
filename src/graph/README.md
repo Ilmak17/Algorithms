@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 417](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - **Solution Code**: [PacificAtlanticWaterFlow_417.java](PacificAtlanticWaterFlow_417.java)
+
+### Problem: Surrounded Regions - LeetCode 130
+
+- **Link to problem**: [LeetCode 130](https://leetcode.com/problems/surrounded-regions/)
+- **Solution Code**: [SurroundedRegions_130.java](SurroundedRegions_130.java)
