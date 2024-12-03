@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 210](https://leetcode.com/problems/course-schedule-ii/)
 - **Solution Code**: [CourseScheduleII_210.java](CourseScheduleII_210.java)
+
+### Problem: Graph Valid Tree - LeetCode 261
+
+- **Link to problem**: [LeetCode 261](https://leetcode.com/problems/graph-valid-tree/)
+- **Solution Code**: [GraphValidTree_261.java](GraphValidTree_261.java)

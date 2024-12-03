@@ -99,3 +99,4 @@
     - [Surrounded Regions (130)](src/graph/SurroundedRegions_130.java)
     - [Course Schedule (207)](src/graph/CourseSchedule_207.java)
     - [Course Schedule II (207)](src/graph/CourseScheduleII_210.java)
+    - [Graph Valid Tree (261)](src/graph/GraphValidTree_261.java)
