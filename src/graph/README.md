@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 261](https://leetcode.com/problems/graph-valid-tree/)
 - **Solution Code**: [GraphValidTree_261.java](GraphValidTree_261.java)
+
+### Problem: Number of Connected Components in an Undirected Graph - LeetCode 323
+
+- **Link to problem**: [LeetCode 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- **Solution Code**: [NumberConnectedComponents_323.java](NumberConnectedComponents_323.java)

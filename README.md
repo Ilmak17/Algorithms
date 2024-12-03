@@ -100,3 +100,4 @@
     - [Course Schedule (207)](src/graph/CourseSchedule_207.java)
     - [Course Schedule II (207)](src/graph/CourseScheduleII_210.java)
     - [Graph Valid Tree (261)](src/graph/GraphValidTree_261.java)
+    - [Number of Connected Components in an Undirected Graph (323)](src/graph/NumberConnectedComponents_323.java)
