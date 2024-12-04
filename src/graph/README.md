@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - **Solution Code**: [NumberConnectedComponents_323.java](NumberConnectedComponents_323.java)
+
+### Problem: Redundant Connection - LeetCode 684
+
+- **Link to problem**: [LeetCode 684](https://leetcode.com/problems/redundant-connection/)
+- **Solution Code**: [RedundantConnection_684.java](RedundantConnection_684.java)
