@@ -6,9 +6,9 @@
     - [Implement Trie (208)](src/trie/ImplementTrie_208.java)
     - [Design Add and Search Words Data Structure (211)](src/trie/AddAndSearchWord_211.java)
 
-- [Dynamic Programming](src/dp/README.md)
-    - [Climbing Stairs (70)](src/dp/ClimbStairs_70.java)
-    - [House Robber (198)](src/dp/HouseRobber_198.java)
+- [Dynamic Programming](src/greedy/README.md)
+    - [Climbing Stairs (70)](src/greedy/ClimbStairs_70.java)
+    - [House Robber (198)](src/greedy/HouseRobber_198.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)
@@ -102,3 +102,6 @@
     - [Graph Valid Tree (261)](src/graph/GraphValidTree_261.java)
     - [Number of Connected Components in an Undirected Graph (323)](src/graph/NumberConnectedComponents_323.java)
     - [Redundant Connection (684)](src/graph/RedundantConnection_684.java)
+
+- [Greedy](src/greedy/README.md)
+  - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
