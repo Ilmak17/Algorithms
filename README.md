@@ -105,3 +105,4 @@
 
 - [Greedy](src/greedy/README.md)
   - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
+  - [Jump Game (55)](src/greedy/JumpGame_55.java)
