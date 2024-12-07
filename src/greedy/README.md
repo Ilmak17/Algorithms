@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 55](https://leetcode.com/problems/jump-game/)
 - **Solution Code**: [JumpGame_55.java](JumpGame_55.java)
+
+### Problem: Jump Game II - LeetCode 45
+
+- **Link to problem**: [LeetCode 45](https://leetcode.com/problems/jump-game-ii/)
+- **Solution Code**: [JumpGameII_45.java](JumpGameII_45.java)
