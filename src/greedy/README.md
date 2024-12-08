@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 134](https://leetcode.com/problems/gas-station/)
 - **Solution Code**: [GasStation_134.java](GasStation_134.java)
+
+### Problem: Hand of Straights - LeetCode 846
+
+- **Link to problem**: [LeetCode 846](https://leetcode.com/problems/hand-of-straights/)
+- **Solution Code**: [GasStation_134.java](GasStation_134.java)
