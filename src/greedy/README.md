@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 846](https://leetcode.com/problems/hand-of-straights/)
 - **Solution Code**: [GasStation_134.java](GasStation_134.java)
+
+### Problem: Merge Triplets to Form Target Triplet - LeetCode 1899
+
+- **Link to problem**: [LeetCode 1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
+- **Solution Code**: [MergeTripletsToFormTargetTriplet_1899.java](MergeTripletsToFormTargetTriplet_1899.java)

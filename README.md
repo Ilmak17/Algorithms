@@ -109,3 +109,4 @@
     - [Jump Game II (45)](src/greedy/JumpGameII_45.java)
     - [Gas Station (134)](src/greedy/GasStation_134.java)
     - [Hand of Straights (846)](src/greedy/HandStraights_846.java)
+    - [Merge Triplets to Form Target Triplet (1899)](src/greedy/MergeTripletsToFormTargetTriplet_1899.java)
