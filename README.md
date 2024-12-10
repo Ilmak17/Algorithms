@@ -110,3 +110,4 @@
     - [Gas Station (134)](src/greedy/GasStation_134.java)
     - [Hand of Straights (846)](src/greedy/HandStraights_846.java)
     - [Merge Triplets to Form Target Triplet (1899)](src/greedy/MergeTripletsToFormTargetTriplet_1899.java)
+    - [Partition Labels (763)](src/greedy/PartitionLabels_763.java)

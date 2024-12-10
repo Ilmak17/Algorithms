@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
 - **Solution Code**: [MergeTripletsToFormTargetTriplet_1899.java](MergeTripletsToFormTargetTriplet_1899.java)
+
+### Problem: Partition Labels - LeetCode 763
+
+- **Link to problem**: [LeetCode 763](https://leetcode.com/problems/partition-labels/)
+- **Solution Code**: [PartitionLabels_763.java](PartitionLabels_763.java)
