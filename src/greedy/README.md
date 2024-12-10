@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 763](https://leetcode.com/problems/partition-labels/)
 - **Solution Code**: [PartitionLabels_763.java](PartitionLabels_763.java)
+
+### Problem: Valid Parenthesis String - LeetCode 678
+
+- **Link to problem**: [LeetCode 678](https://leetcode.com/problems/valid-parenthesis-string/)
+- **Solution Code**: [ValidParenthesisString_678.java](ValidParenthesisString_678.java)

@@ -111,3 +111,4 @@
     - [Hand of Straights (846)](src/greedy/HandStraights_846.java)
     - [Merge Triplets to Form Target Triplet (1899)](src/greedy/MergeTripletsToFormTargetTriplet_1899.java)
     - [Partition Labels (763)](src/greedy/PartitionLabels_763.java)
+    - [Valid Parenthesis String (678)](src/greedy/ValidParenthesisString_678.java)
