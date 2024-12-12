@@ -46,4 +46,23 @@ public class ClimbStairs_70 {
 
         return dp[n];
     }
+
+    // bottom up optimized
+    public int climbStairsBottomUpOptimized(int n) {
+        if (n == 1) {
+            return 1;
+        }
+
+        int res = 0;
+        int i1 = 1;
+        int i2 = 1;
+
+        for (int i = 2; i <= n; i++) {
+            res = i1 + i2;
+            i2 = i1;
+            i1 = res;
+        }
+
+        return res;
+    }
 }
