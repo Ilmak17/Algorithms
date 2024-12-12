@@ -7,8 +7,9 @@
     - [Design Add and Search Words Data Structure (211)](src/trie/AddAndSearchWord_211.java)
 
 - [Dynamic Programming](src/greedy/README.md)
-    - [Climbing Stairs (70)](src/greedy/ClimbStairs_70.java)
-    - [House Robber (198)](src/greedy/HouseRobber_198.java)
+    - [Climbing Stairs (70)](src/dp/ClimbStairs_70.java)
+    - [House Robber (198)](src/dp/HouseRobber_198.java)
+    - [Min Cost Climbing Stairs (746)](src/dp/MinCostClimbingStairs_746.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)
