@@ -28,4 +28,20 @@ public class HouseRobber_198 {
 
         return dp[n];
     }
+
+    public int robSpaceOptimized(int[] nums) {
+        if (nums.length == 1) return nums[0];
+        if (nums.length == 2) return Math.max(nums[0], nums[1]);
+
+        int i1 = 0;
+        int i2 = nums[0];
+
+        for (int i = 2; i <= nums.length; i++) {
+            int tmp = Math.max(i1 + nums[i - 1], i2);
+            i1 = i2;
+            i2 = tmp;
+        }
+
+        return i2;
+    }
 }
