@@ -14,3 +14,8 @@
 
 - **Link to problem**: [LeetCode 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - **Solution Code**: [MinCostClimbingStairs_746.java](MinCostClimbingStairs_746.java)
+
+### Problem: House Robber II - LeetCode 213
+
+- **Link to problem**: [LeetCode 213](https://leetcode.com/problems/house-robber-ii/)
+- **Solution Code**: [HouseRobberII_213.java](HouseRobberII_213.java)
