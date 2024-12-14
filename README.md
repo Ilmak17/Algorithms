@@ -11,6 +11,7 @@
     - [House Robber (198)](src/dp/HouseRobber_198.java)
     - [Min Cost Climbing Stairs (746)](src/dp/MinCostClimbingStairs_746.java)
     - [House Robber II (213)](src/dp/HouseRobberII_213.java)
+    - [Partition Equal Subset Sum (416)](src/dp/PartitionEqualSubsetSum_416.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

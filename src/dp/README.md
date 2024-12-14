@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 213](https://leetcode.com/problems/house-robber-ii/)
 - **Solution Code**: [HouseRobberII_213.java](HouseRobberII_213.java)
+
+### Problem: Partition Equal Subset Sum - LeetCode 416
+
+- **Link to problem**: [LeetCode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
+- **Solution Code**: [PartitionEqualSubsetSum_416.java](PartitionEqualSubsetSum_416.java)
