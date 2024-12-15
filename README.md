@@ -12,6 +12,7 @@
     - [Min Cost Climbing Stairs (746)](src/dp/MinCostClimbingStairs_746.java)
     - [House Robber II (213)](src/dp/HouseRobberII_213.java)
     - [Partition Equal Subset Sum (416)](src/dp/PartitionEqualSubsetSum_416.java)
+    - [Longest Palindromic Substring (5)](src/dp/LongestPalindromicSubstring_5.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

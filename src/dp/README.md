@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 416](https://leetcode.com/problems/partition-equal-subset-sum/)
 - **Solution Code**: [PartitionEqualSubsetSum_416.java](PartitionEqualSubsetSum_416.java)
+
+### Problem: Longest Palindromic Substring - LeetCode 5
+
+- **Link to problem**: [LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/)
+- **Solution Code**: [LongestPalindromicSubstring_5.java](LongestPalindromicSubstring_5.java)
