@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/)
 - **Solution Code**: [LongestPalindromicSubstring_5.java](LongestPalindromicSubstring_5.java)
+
+### Problem: Palindromic Substrings - LeetCode 647
+
+- **Link to problem**: [LeetCode 647](https://leetcode.com/problems/palindromic-substrings/)
+- **Solution Code**: [PalindromicSubstrings_647.java](PalindromicSubstrings_647.java)
