@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 647](https://leetcode.com/problems/palindromic-substrings/)
 - **Solution Code**: [PalindromicSubstrings_647.java](PalindromicSubstrings_647.java)
+
+### Problem: Decode Ways - LeetCode 91
+
+- **Link to problem**: [LeetCode 91](https://leetcode.com/problems/decode-ways/)
+- **Solution Code**: [DecodeWays_91.java](DecodeWays_91.java)

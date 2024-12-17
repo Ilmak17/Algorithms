@@ -32,7 +32,7 @@ public class CarFleet_853 {
             combine[i][1] = speed[i];
         }
 
-        Arrays.sort(combine, (a, b) -> a[0] - b[0]);
+        Arrays.sort(combine);
         for (int i = combine.length - 1; i >= 0; i--) {
             double currentTime = (double) (target - combine[i][0]) /
                     combine[i][1];
