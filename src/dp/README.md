@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 91](https://leetcode.com/problems/decode-ways/)
 - **Solution Code**: [DecodeWays_91.java](DecodeWays_91.java)
+
+### Problem: Coin Change - LeetCode 322
+
+- **Link to problem**: [LeetCode 322](https://leetcode.com/problems/coin-change/)
+- **Solution Code**: [CoinChange_322.java](CoinChange_322.java)
