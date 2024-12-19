@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 322](https://leetcode.com/problems/coin-change/)
 - **Solution Code**: [CoinChange_322.java](CoinChange_322.java)
+
+### Problem: Maximum Product Subarray - LeetCode 152
+
+- **Link to problem**: [LeetCode 152](https://leetcode.com/problems/maximum-product-subarray/)
+- **Solution Code**: [MaximumProductSubarray_152.java](MaximumProductSubarray_152.java)
