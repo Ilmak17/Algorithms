@@ -17,6 +17,7 @@
     - [Decode Ways (91)](src/dp/DecodeWays_91.java)
     - [Coin Change (322)](src/dp/CoinChange_322.java)
     - [Maximum Product Subarray (152)](src/dp/MaximumProductSubarray_152.java)
+    - [Longest Increasing Subsequence (300)](src/dp/LongestIncreasingSubsequence_300.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

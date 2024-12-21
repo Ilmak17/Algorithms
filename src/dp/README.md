@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 152](https://leetcode.com/problems/maximum-product-subarray/)
 - **Solution Code**: [MaximumProductSubarray_152.java](MaximumProductSubarray_152.java)
+
+### Problem: Longest Increasing Subsequence - LeetCode 300
+
+- **Link to problem**: [LeetCode 300](https://leetcode.com/problems/longest-increasing-subsequence/)
+- **Solution Code**: [LongestIncreasingSubsequence_300.java](LongestIncreasingSubsequence_300.java)
