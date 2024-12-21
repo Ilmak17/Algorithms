@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 139](https://leetcode.com/problems/word-break/)
 - **Solution Code**: [WordBreak_139.java](WordBreak_139.java)
+
+### Problem: Unique Paths - LeetCode 62
+
+- **Link to problem**: [LeetCode 62](https://leetcode.com/problems/unique-paths/)
+- **Solution Code**: [UniquePaths_62.java](UniquePaths_62.java)

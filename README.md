@@ -19,6 +19,7 @@
     - [Maximum Product Subarray (152)](src/dp/MaximumProductSubarray_152.java)
     - [Longest Increasing Subsequence (300)](src/dp/LongestIncreasingSubsequence_300.java)
     - [Word Break (139)](src/dp/WordBreak_139.java)
+    - [Unique Paths (62)](src/dp/UniquePaths_62.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)
