@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 300](https://leetcode.com/problems/longest-increasing-subsequence/)
 - **Solution Code**: [LongestIncreasingSubsequence_300.java](LongestIncreasingSubsequence_300.java)
+
+### Problem: Word Break - LeetCode 139
+
+- **Link to problem**: [LeetCode 139](https://leetcode.com/problems/word-break/)
+- **Solution Code**: [WordBreak_139.java](WordBreak_139.java)
