@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 62](https://leetcode.com/problems/unique-paths/)
 - **Solution Code**: [UniquePaths_62.java](UniquePaths_62.java)
+
+### Problem: Longest Common Subsequence - LeetCode 1143
+
+- **Link to problem**: [LeetCode 1143](https://leetcode.com/problems/longest-common-subsequence/)
+- **Solution Code**: [LongestCommonSubsequence_1143.java](LongestCommonSubsequence_1143.java)
