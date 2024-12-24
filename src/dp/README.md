@@ -79,3 +79,8 @@
 
 - **Link to problem**: [LeetCode 518](https://leetcode.com/problems/coin-change-ii/)
 - **Solution Code**: [CoinChangeII_518.java](CoinChangeII_518.java)
+
+### Problem: Target Sum - LeetCode 494
+
+- **Link to problem**: [LeetCode 494](https://leetcode.com/problems/target-sum/)
+- **Solution Code**: [TargetSum_494.java](TargetSum_494.java)

@@ -23,6 +23,7 @@
     - [Longest Common Subsequence (1143)](src/dp/LongestCommonSubsequence_1143.java)
     - [Best Time to Buy and Sell Stock with Cooldown (309)](src/dp/BestTimeBuySellStockCooldown_309.java)
     - [Coin Change II (518)](src/dp/CoinChangeII_518.java)
+    - [Target Sum (494)](src/dp/TargetSum_494.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)
