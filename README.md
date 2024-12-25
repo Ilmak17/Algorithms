@@ -25,6 +25,7 @@
     - [Coin Change II (518)](src/dp/CoinChangeII_518.java)
     - [Target Sum (494)](src/dp/TargetSum_494.java)
     - [Interleaving String (97)](src/dp/InterleavingString_97.java)
+    - [Edit Distance (72)](src/dp/EditDistance_72.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

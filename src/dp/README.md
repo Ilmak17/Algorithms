@@ -89,3 +89,8 @@
 
 - **Link to problem**: [LeetCode 97](https://leetcode.com/problems/interleaving-string/)
 - **Solution Code**: [InterleavingString_97.java](InterleavingString_97.java)
+
+### Problem: Edit Distance - LeetCode 72
+
+- **Link to problem**: [LeetCode 72](https://leetcode.com/problems/edit-distance/)
+- **Solution Code**: [EditDistance_72.java](EditDistance_72.java)
