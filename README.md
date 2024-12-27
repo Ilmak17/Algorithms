@@ -131,4 +131,5 @@
     - [Valid Parenthesis String (678)](src/greedy/ValidParenthesisString_678.java)
 
 - [Intervals](src/intervals/README.md)
-    - [Merge Intervals (56)](src/intervals/MergeIntervals56.java)
+    - [Merge Intervals (56)](src/intervals/MergeIntervals_56.java)
+    - [Insert Interval (57)](src/intervals/InsertInterval_57.java)
