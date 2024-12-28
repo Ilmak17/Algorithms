@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 57](https://leetcode.com/problems/insert-interval/)
 - **Solution Code**: [InsertInterval_57.java](InsertInterval_57.java)
+
+### Problem: Non-overlapping Intervals - LeetCode 435
+
+- **Link to problem**: [LeetCode 435](https://leetcode.com/problems/non-overlapping-intervals/)
+- **Solution Code**: [NonOverlappingIntervals_435.java](NonOverlappingIntervals_435.java)
