@@ -14,3 +14,8 @@
 
 - **Link to problem**: [LeetCode 435](https://leetcode.com/problems/non-overlapping-intervals/)
 - **Solution Code**: [NonOverlappingIntervals_435.java](NonOverlappingIntervals_435.java)
+
+### Problem: Meeting Rooms - LeetCode 252
+
+- **Link to problem**: [LeetCode 252](https://leetcode.com/problems/meeting-rooms/)
+- **Solution Code**: [MeetingRooms_252.java](MeetingRooms_252.java)
