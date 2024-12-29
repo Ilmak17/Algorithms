@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 252](https://leetcode.com/problems/meeting-rooms/)
 - **Solution Code**: [MeetingRooms_252.java](MeetingRooms_252.java)
+
+### Problem: Meeting Rooms II - LeetCode 253
+
+- **Link to problem**: [LeetCode 253](https://leetcode.com/problems/meeting-rooms-ii/)
+- **Solution Code**: [MeetingRoomsII_253.java](MeetingRoomsII_253.java)
