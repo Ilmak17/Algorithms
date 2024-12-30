@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 981](https://leetcode.com/problems/time-based-key-value-store/)
 - **Solution Code**: [TimeMap_981.java](TimeMap_981.java)
+
+### Problem: Search Insert Position  - LeetCode 35
+
+- **Link to problem**: [LeetCode 35](https://leetcode.com/problems/search-insert-position/)
+- **Solution Code**: [SearchInsertPosition_35.java](SearchInsertPosition_35.java)
