@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - **Solution Code**: [FindSmallestLetterGreaterThanTarget_744.java](FindSmallestLetterGreaterThanTarget_744.java)
+
+### Problem: Find Peak Element - LeetCode 162
+
+- **Link to problem**: [LeetCode 162](https://leetcode.com/problems/find-peak-element/)
+- **Solution Code**: [FindPeakElement_162.java](FindPeakElement_162.java)
