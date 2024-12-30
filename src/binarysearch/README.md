@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 35](https://leetcode.com/problems/search-insert-position/)
 - **Solution Code**: [SearchInsertPosition_35.java](SearchInsertPosition_35.java)
+
+### Problem: Find Smallest Letter Greater Than Target  - LeetCode 744
+
+- **Link to problem**: [LeetCode 744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- **Solution Code**: [FindSmallestLetterGreaterThanTarget_744.java](FindSmallestLetterGreaterThanTarget_744.java)
