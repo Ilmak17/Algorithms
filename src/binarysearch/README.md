@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 162](https://leetcode.com/problems/find-peak-element/)
 - **Solution Code**: [FindPeakElement_162.java](FindPeakElement_162.java)
+
+### Problem: Peak Index in a Mountain Array - LeetCode 852
+
+- **Link to problem**: [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- **Solution Code**: [PeakIndexMountainArray_852.java](PeakIndexMountainArray_852.java)
