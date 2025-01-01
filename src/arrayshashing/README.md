@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)
 - **Solution Code**: [LongestConsecutiveSequence_128.java](LongestConsecutiveSequence_128.java)
+
+### Problem: Find the Middle Index in Array  - LeetCode 1991
+
+- **Link to problem**: [LeetCode 1991](https://leetcode.com/problems/find-the-middle-index-in-array/)
+- **Solution Code**: [FindMiddleIndex_1991.java](FindMiddleIndex_1991.java)

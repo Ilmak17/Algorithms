@@ -34,6 +34,7 @@
     - [Product of Array Except Self (238)](src/arrayshashing/ProductExceptSelf_238.java)
     - [Valid Sudoku (36)](src/arrayshashing/ValidSudoku_36.java)
     - [Longest Consecutive Sequence (128)](src/arrayshashing/LongestConsecutiveSequence_128.java)
+    - [Find the Middle Index in Array (1991)](src/arrayshashing/FindMiddleIndex_1991.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
