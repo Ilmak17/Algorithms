@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 2574](https://leetcode.com/problems/left-and-right-sum-differences/)
 - **Solution Code**: [LeftAndRightSumDifferences_2574.java](LeftAndRightSumDifferences_2574.java)
+
+### Problem: Binary Subarrays With Sum  - LeetCode 930
+
+- **Link to problem**: [LeetCode 930](https://leetcode.com/problems/binary-subarrays-with-sum/)
+- **Solution Code**: [BinarySubarraysWithSum_930.java](BinarySubarraysWithSum_930.java)
