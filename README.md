@@ -37,6 +37,7 @@
     - [Find the Middle Index in Array (1991)](src/arrayshashing/FindMiddleIndex_1991.java)
     - [Left and Right Sum Differences (2574)](src/arrayshashing/LeftAndRightSumDifferences_2574.java)
     - [Binary Subarrays With Sum (930)](src/arrayshashing/BinarySubarraysWithSum_930.java)
+    - [Subarray Sums Divisible by K (974)](src/arrayshashing/SubarraySumsDivisibleByK_974.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

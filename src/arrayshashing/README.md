@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 930](https://leetcode.com/problems/binary-subarrays-with-sum/)
 - **Solution Code**: [BinarySubarraysWithSum_930.java](BinarySubarraysWithSum_930.java)
+
+### Problem: Subarray Sums Divisible by K  - LeetCode 974
+
+- **Link to problem**: [LeetCode 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- **Solution Code**: [SubarraySumsDivisibleByK_974.java](SubarraySumsDivisibleByK_974.java)
