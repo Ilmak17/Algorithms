@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 1991](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - **Solution Code**: [FindMiddleIndex_1991.java](FindMiddleIndex_1991.java)
+
+### Problem: Left and Right Sum Differences  - LeetCode 2574
+
+- **Link to problem**: [LeetCode 2574](https://leetcode.com/problems/left-and-right-sum-differences/)
+- **Solution Code**: [LeftAndRightSumDifferences_2574.java](LeftAndRightSumDifferences_2574.java)

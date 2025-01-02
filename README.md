@@ -35,6 +35,7 @@
     - [Valid Sudoku (36)](src/arrayshashing/ValidSudoku_36.java)
     - [Longest Consecutive Sequence (128)](src/arrayshashing/LongestConsecutiveSequence_128.java)
     - [Find the Middle Index in Array (1991)](src/arrayshashing/FindMiddleIndex_1991.java)
+    - [Left and Right Sum Differences (2574)](src/arrayshashing/LeftAndRightSumDifferences_2574.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
