@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - **Solution Code**: [SubarraySumsDivisibleByK_974.java](SubarraySumsDivisibleByK_974.java)
+
+### Problem: Sum of Absolute Differences in a Sorted Array  - LeetCode 1685
+
+- **Link to problem**: [LeetCode 1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
+- **Solution Code**: [SumAbsoluteDifferencesSortedArray_1685.java](SumAbsoluteDifferencesSortedArray_1685.java)

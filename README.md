@@ -38,6 +38,7 @@
     - [Left and Right Sum Differences (2574)](src/arrayshashing/LeftAndRightSumDifferences_2574.java)
     - [Binary Subarrays With Sum (930)](src/arrayshashing/BinarySubarraysWithSum_930.java)
     - [Subarray Sums Divisible by K (974)](src/arrayshashing/SubarraySumsDivisibleByK_974.java)
+    - [Sum of Absolute Differences in a Sorted Array (1685)](src/arrayshashing/SumAbsoluteDifferencesSortedArray_1685.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
