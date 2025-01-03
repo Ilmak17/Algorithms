@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 - **Solution Code**: [SumAbsoluteDifferencesSortedArray_1685.java](SumAbsoluteDifferencesSortedArray_1685.java)
+
+### Problem: Subarray Sum Equals K  - LeetCode 560
+
+- **Link to problem**: [LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/)
+- **Solution Code**: [SubarraySumEqualsK_560.java](SubarraySumEqualsK_560.java)
