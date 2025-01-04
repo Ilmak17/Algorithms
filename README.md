@@ -40,6 +40,7 @@
     - [Subarray Sums Divisible by K (974)](src/arrayshashing/SubarraySumsDivisibleByK_974.java)
     - [Sum of Absolute Differences in a Sorted Array (1685)](src/arrayshashing/SumAbsoluteDifferencesSortedArray_1685.java)
     - [Subarray Sum Equals K (560)](src/arrayshashing/SubarraySumEqualsK_560.java)
+    - [Merge Sorted Array (88)](src/arrayshashing/MergeSortedArray_88.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/)
 - **Solution Code**: [SubarraySumEqualsK_560.java](SubarraySumEqualsK_560.java)
+
+### Problem: Merge Sorted Array  - LeetCode 88
+
+- **Link to problem**: [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)
+- **Solution Code**: [MergeSortedArray_88.java](MergeSortedArray_88.java)
