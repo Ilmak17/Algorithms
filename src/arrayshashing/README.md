@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)
 - **Solution Code**: [MergeSortedArray_88.java](MergeSortedArray_88.java)
+
+### Problem: Remove Duplicates from Sorted Array II  - LeetCode 80
+
+- **Link to problem**: [LeetCode 80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- **Solution Code**: [RemoveDuplicatesFromSortedArrayII_80.java](RemoveDuplicatesFromSortedArrayII_80.java)
