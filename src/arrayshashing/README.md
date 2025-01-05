@@ -69,3 +69,8 @@
 
 - **Link to problem**: [LeetCode 80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - **Solution Code**: [RemoveDuplicatesFromSortedArrayII_80.java](RemoveDuplicatesFromSortedArrayII_80.java)
+
+### Problem: Rotate Array  - LeetCode 189
+
+- **Link to problem**: [LeetCode 189](https://leetcode.com/problems/rotate-array/)
+- **Solution Code**: [RotateArray_189.java](RotateArray_189.java)
