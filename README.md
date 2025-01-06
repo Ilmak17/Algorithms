@@ -43,6 +43,7 @@
     - [Merge Sorted Array (88)](src/arrayshashing/MergeSortedArray_88.java)
     - [Remove Duplicates from Sorted Array II (80)](src/arrayshashing/RemoveDuplicatesFromSortedArrayII_80.java)
     - [Rotate Array (189)](src/arrayshashing/RotateArray_189.java)
+    - [H-Index (274)](src/arrayshashing/HIndex_274.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

@@ -74,3 +74,8 @@
 
 - **Link to problem**: [LeetCode 189](https://leetcode.com/problems/rotate-array/)
 - **Solution Code**: [RotateArray_189.java](RotateArray_189.java)
+
+### Problem: H-Index - LeetCode 274
+
+- **Link to problem**: [LeetCode 274](https://leetcode.com/problems/h-index/)
+- **Solution Code**: [HIndex_274.java](HIndex_274.java)
