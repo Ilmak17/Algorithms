@@ -34,3 +34,8 @@
 
 - **Link to problem**: [LeetCode 18](https://leetcode.com/problems/four-sum/)
 - **Solution Code**: [FourSum_18.java](FourSum_18.java)
+
+### Problem: String Compression  - LeetCode 443
+
+- **Link to problem**: [LeetCode 443](https://leetcode.com/problems/string-compression/)
+- **Solution Code**: [StringCompression_443.java](StringCompression_443.java)
