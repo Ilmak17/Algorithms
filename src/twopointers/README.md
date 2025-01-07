@@ -27,5 +27,10 @@
 
 ### Problem: Move Zeros  - LeetCode 283
 
-- **Link to problem**: [LeetCode 680](https://leetcode.com/problems/move-zeros/)
+- **Link to problem**: [LeetCode 283](https://leetcode.com/problems/move-zeros/)
 - **Solution Code**: [MoveZeroes_283.java](MoveZeroes_283.java)
+
+### Problem: 4 Sum  - LeetCode 18
+
+- **Link to problem**: [LeetCode 18](https://leetcode.com/problems/four-sum/)
+- **Solution Code**: [FourSum_18.java](FourSum_18.java)
