@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/)
 - **Solution Code**: [ValidPalindromeII_680.java](ValidPalindromeII_680.java)
+
+### Problem: Move Zeros  - LeetCode 283
+
+- **Link to problem**: [LeetCode 680](https://leetcode.com/problems/move-zeros/)
+- **Solution Code**: [MoveZeroes_283.java](MoveZeroes_283.java)

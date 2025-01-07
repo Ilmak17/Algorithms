@@ -1,7 +1,7 @@
 package graph;
 
 /*
- * LeetCode Problem 130. Surrounded Regions
+ * LeetCode Problem 130: Surrounded Regions
  * Difficulty: Medium
  *
  * Problem Statement:

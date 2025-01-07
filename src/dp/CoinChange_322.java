@@ -1,7 +1,7 @@
 package dp;
 
 /*
- * LeetCode Problem 322. Coin Change
+ * LeetCode Problem 322: Coin Change
  * Difficulty: Medium
  *
  * Problem Statement:
