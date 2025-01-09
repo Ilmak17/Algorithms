@@ -157,4 +157,5 @@
     - [Meeting Rooms II (253)](src/intervals/MeetingRoomsII_253.java)
 
 - [String](src/string/README.md)
-    - [Merge Intervals (67)](src/string/AddBinary_67.java)
+    - [Add Binary (67)](src/string/AddBinary_67.java)
+    - [Buddy Strings (859)](src/string/BuddyStrings_859.java)
