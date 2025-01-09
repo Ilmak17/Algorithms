@@ -10,3 +10,9 @@
 - **Link to problem**: [LeetCode 859](https://leetcode.com/problems/buddy-strings/)
 - **Solution Code**: [BuddyStrings_859.java](BuddyStrings_859.java)
 
+
+### Problem: Isomorphic Strings - LeetCode 205
+
+- **Link to problem**: [LeetCode 205](https://leetcode.com/problems/isomorphic-strings/)
+- **Solution Code**: [IsomorphicStrings_205.java](IsomorphicStrings_205.java)
+

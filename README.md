@@ -159,3 +159,5 @@
 - [String](src/string/README.md)
     - [Add Binary (67)](src/string/AddBinary_67.java)
     - [Buddy Strings (859)](src/string/BuddyStrings_859.java)
+    - [Buddy Strings (859)](src/string/BuddyStrings_859.java)
+    - [Isomorphic Strings (205)](src/string/IsomorphicStrings_205.java)
