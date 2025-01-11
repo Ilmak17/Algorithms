@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 146](https://leetcode.com/problems/lru-cache/)
 - **Solution Code**: [LRUCache_146.java](LRUCache_146.java)
+
+### Problem: Palindrome Linked List - LeetCode 234
+
+- **Link to problem**: [LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
+- **Solution Code**: [PalindromeLinkedList_234.java](PalindromeLinkedList_234.java)
