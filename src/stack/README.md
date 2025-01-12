@@ -25,9 +25,13 @@
 - **Link to problem**: [LeetCode 739](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - **Solution Code**: [EvaluateReversePolishNotation_739.java](EvaluateReversePolishNotation_739.java)
 
-
 ### Problem: Minimum Remove to Make Valid Parentheses - LeetCode 1249
 
 - **Link to problem**: [LeetCode 1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - **Solution Code**: [MinimumRemoveMakeValidParentheses_1249.java](MinimumRemoveMakeValidParentheses_1249.java)
+
+### Problem: Simplify Path - LeetCode 71
+
+- **Link to problem**: [LeetCode 71](https://leetcode.com/problems/simplify-path/)
+- **Solution Code**: [SimplifyPath_71.java](SimplifyPath_71.java)
 
