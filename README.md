@@ -105,6 +105,7 @@
     - [Find Smallest Letter Greater Than Target (744)](src/binarysearch/FindSmallestLetterGreaterThanTarget_744.java)
     - [Find Peak Element (162)](src/binarysearch/FindPeakElement_162.java)
     - [Peak Index in a Mountain Array (852)](src/binarysearch/PeakIndexMountainArray_852.java)
+    - [Sqrt(x) (69)](src/binarysearch/SqrtX_69.java)
 
 - [Tree](src/tree/README.md)
     - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)

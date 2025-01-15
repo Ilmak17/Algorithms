@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - **Solution Code**: [PeakIndexMountainArray_852.java](PeakIndexMountainArray_852.java)
+
+### Problem: Sqrt(x) - LeetCode 69
+
+- **Link to problem**: [LeetCode 69](https://leetcode.com/problems/sqrtx/)
+- **Solution Code**: [SqrtX_69.java](SqrtX_69.java)
