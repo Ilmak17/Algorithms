@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 684](https://leetcode.com/problems/redundant-connection/)
 - **Solution Code**: [RedundantConnection_684.java](RedundantConnection_684.java)
+
+### Problem: Is Graph Bipartite - LeetCode 785
+
+- **Link to problem**: [LeetCode 785](https://leetcode.com/problems/is-graph-bipartite/)
+- **Solution Code**: [IsGraphBipartite_785.java](IsGraphBipartite_785.java)

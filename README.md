@@ -144,6 +144,7 @@
     - [Graph Valid Tree (261)](src/graph/GraphValidTree_261.java)
     - [Number of Connected Components in an Undirected Graph (323)](src/graph/NumberConnectedComponents_323.java)
     - [Redundant Connection (684)](src/graph/RedundantConnection_684.java)
+    - [Is Graph Bipartite? (785)](src/graph/IsGraphBipartite_785.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
