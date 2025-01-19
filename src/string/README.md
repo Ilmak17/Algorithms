@@ -20,3 +20,8 @@
 - **Link to problem**: [LeetCode 345](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - **Solution Code**: [ReverseVowels_345.java](ReverseVowels_345.java)
 
+### Problem: String to Integer - LeetCode 8
+
+- **Link to problem**: [LeetCode 8](https://leetcode.com/problems/string-to-integer-atoi/)
+- **Solution Code**: [StringToInteger_8.java](StringToInteger_8.java)
+
