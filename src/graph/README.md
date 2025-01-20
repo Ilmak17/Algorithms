@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 785](https://leetcode.com/problems/is-graph-bipartite/)
 - **Solution Code**: [IsGraphBipartite_785.java](IsGraphBipartite_785.java)
+
+### Problem: Shortest Bridge - LeetCode 934
+
+- **Link to problem**: [LeetCode 934](https://leetcode.com/problems/shortest-bridge/)
+- **Solution Code**: [ShortestBridge_934.java](ShortestBridge_934.java)
