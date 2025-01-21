@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - **Solution Code**: [LetterCombinationsOfPhoneNumber_17.java](LetterCombinationsOfPhoneNumber_17.java)
+
+### Problem: Combinations - LeetCode 77
+
+- **Link to problem**: [LeetCode 77](https://leetcode.com/problems/combinations/)
+- **Solution Code**: [Combinations_77.java](Combinations_77.java)
