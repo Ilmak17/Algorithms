@@ -69,3 +69,8 @@
 
 - **Link to problem**: [LeetCode 934](https://leetcode.com/problems/shortest-bridge/)
 - **Solution Code**: [ShortestBridge_934.java](ShortestBridge_934.java)
+
+### Problem: Count Servers that Communicate- LeetCode 1267
+
+- **Link to problem**: [LeetCode 1267](https://leetcode.com/problems/count-servers-that-communicate/)
+- **Solution Code**: [CountServersThatCommunicate_1267.java](CountServersThatCommunicate_1267.java)
