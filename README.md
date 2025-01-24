@@ -150,6 +150,7 @@
     - [Is Graph Bipartite? (785)](src/graph/IsGraphBipartite_785.java)
     - [Shortest Bridge (934)](src/graph/ShortestBridge_934.java)
     - [Count Servers that Communicate (1267)](src/graph/CountServersThatCommunicate_1267.java)
+    - [Find Eventual Safe States (802)](src/graph/FindEventualSafeStates_802.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
