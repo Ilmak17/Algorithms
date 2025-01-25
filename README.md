@@ -176,6 +176,7 @@
     - [Isomorphic Strings (205)](src/string/IsomorphicStrings_205.java)
     - [Reverse Vowels of a String (345)](src/string/ReverseVowels_345.java)
     - [String to Integer (8)](src/string/StringToInteger_8.java)
+    - [Find the Index of the First Occurrence in a String (28)](src/string/FindIndexFirstOccurrenceString_28.java)
 
 - [Queue](src/queue/README.md)
     - [Number of Recent Calls (933)](src/queue/NumberRecentCalls_933.java)

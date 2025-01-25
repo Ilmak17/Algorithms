@@ -25,3 +25,8 @@
 - **Link to problem**: [LeetCode 8](https://leetcode.com/problems/string-to-integer-atoi/)
 - **Solution Code**: [StringToInteger_8.java](StringToInteger_8.java)
 
+### Problem: Find the Index of the First Occurrence in a String - LeetCode 28
+
+- **Link to problem**: [LeetCode 28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- **Solution Code**: [FindIndexFirstOccurrenceString_28.java](FindIndexFirstOccurrenceString_28.java)
+
