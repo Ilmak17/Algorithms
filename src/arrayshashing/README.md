@@ -80,7 +80,12 @@
 - **Link to problem**: [LeetCode 274](https://leetcode.com/problems/h-index/)
 - **Solution Code**: [HIndex_274.java](HIndex_274.java)
 
-### Problem: H-Index - LeetCode 380
+### Problem: Insert delete get random - LeetCode 380
 
 - **Link to problem**: [LeetCode 380](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - **Solution Code**: [InsertDeleteGetRandom_380.java](InsertDeleteGetRandom_380.java)
+
+### Problem: Design a Food Rating System - LeetCode 2353
+
+- **Link to problem**: [LeetCode 2353](https://leetcode.com/problems/design-a-food-rating-system/)
+- **Solution Code**: [DesignFoodRatingSystem_2353.java](DesignFoodRatingSystem_2353.java)
