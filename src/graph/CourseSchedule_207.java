@@ -15,7 +15,9 @@ package graph;
  */
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class CourseSchedule_207 {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
@@ -62,5 +64,41 @@ public class CourseSchedule_207 {
         cycleStack[node] = false;
 
         return false;
+    }
+
+    public boolean canFinishKahnAlgorithm(int numCourses, int[][] prerequisites) {
+        List<List<Integer>> adjList = new ArrayList<>();
+
+        for (int i = 0; i < numCourses; i++) {
+            adjList.add(new ArrayList<>());
+        }
+
+        int[] inDegree = new int[numCourses];
+        for (int[] edge : prerequisites) {
+            adjList.get(edge[0]).add(edge[1]);
+            inDegree[edge[1]]++;
+        }
+
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegree[i] == 0) {
+                queue.add(i);
+            }
+        }
+
+
+        int counter = 0;
+        while (!queue.isEmpty()) {
+            int val = queue.poll();
+            counter++;
+
+            for (int nei : adjList.get(val)) {
+                if (--inDegree[nei] == 0) {
+                    queue.add(nei);
+                }
+            }
+        }
+
+        return counter == numCourses;
     }
 }
