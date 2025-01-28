@@ -152,6 +152,7 @@
     - [Shortest Bridge (934)](src/graph/ShortestBridge_934.java)
     - [Count Servers that Communicate (1267)](src/graph/CountServersThatCommunicate_1267.java)
     - [Find Eventual Safe States (802)](src/graph/FindEventualSafeStates_802.java)
+    - [Maximum Number of Fish in a Grid (2658)](src/graph/MaximumNumberFishGrid_2658.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)

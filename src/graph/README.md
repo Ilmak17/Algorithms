@@ -79,3 +79,8 @@
 
 - **Link to problem**: [LeetCode 802](https://leetcode.com/problems/find-eventual-safe-states/)
 - **Solution Code**: [FindEventualSafeStates_802.java](FindEventualSafeStates_802.java)
+
+### Problem: Maximum Number of Fish in a Grid - LeetCode 2658
+
+- **Link to problem**: [LeetCode 2658](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)
+- **Solution Code**: [MaximumNumberFishGrid_2658.java](MaximumNumberFishGrid_2658.java)
