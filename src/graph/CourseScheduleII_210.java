@@ -13,7 +13,9 @@ package graph;
  */
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class CourseScheduleII_210 {
     private final List<List<Integer>> graph = new ArrayList<>();
@@ -66,5 +68,40 @@ public class CourseScheduleII_210 {
         res[k--] = node;
 
         return false;
+    }
+
+    public int[] findOrderKahnAlgo(int numCourses, int[][] prerequisites) {
+        List<List<Integer>> adjList = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adjList.add(new ArrayList<>());
+        }
+
+        int[] inDegree = new int[numCourses];
+        for (int[] edge : prerequisites) {
+            adjList.get(edge[1]).add(edge[0]);
+            inDegree[edge[0]]++;
+        }
+
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegree[i] == 0) {
+                queue.add(i);
+            }
+        }
+
+        int[] res = new int[numCourses];
+        int index = 0;
+        while (!queue.isEmpty()) {
+            int val = queue.poll();
+            res[index++] = val;
+
+            for (int nei : adjList.get(val)) {
+                if (--inDegree[nei] == 0) {
+                    queue.add(nei);
+                }
+            }
+        }
+
+        return index == numCourses ? res : new int[]{};
     }
 }
