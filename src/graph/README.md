@@ -84,3 +84,8 @@
 
 - **Link to problem**: [LeetCode 2658](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)
 - **Solution Code**: [MaximumNumberFishGrid_2658.java](MaximumNumberFishGrid_2658.java)
+
+### Problem: Course Schedule IV - LeetCode 1462
+
+- **Link to problem**: [LeetCode 1462](https://leetcode.com/problems/course-schedule-iv/)
+- **Solution Code**: [CourseScheduleIV_1462.java](CourseScheduleIV_1462.java)
