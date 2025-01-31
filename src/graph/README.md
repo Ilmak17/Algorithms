@@ -89,3 +89,8 @@
 
 - **Link to problem**: [LeetCode 1462](https://leetcode.com/problems/course-schedule-iv/)
 - **Solution Code**: [CourseScheduleIV_1462.java](CourseScheduleIV_1462.java)
+
+### Problem: Network Delay Time - LeetCode 743
+
+- **Link to problem**: [LeetCode 743](https://leetcode.com/problems/network-delay-time/)
+- **Solution Code**: [NetworkDelayTime_743.java](NetworkDelayTime_743.java)

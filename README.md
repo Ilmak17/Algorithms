@@ -154,6 +154,7 @@
     - [Find Eventual Safe States (802)](src/graph/FindEventualSafeStates_802.java)
     - [Maximum Number of Fish in a Grid (2658)](src/graph/MaximumNumberFishGrid_2658.java)
     - [Course Schedule IV (1462)](src/graph/CourseScheduleIV_1462.java)
+    - [Network Delay Time (743)](src/graph/NetworkDelayTime_743.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
