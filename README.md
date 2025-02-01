@@ -46,6 +46,7 @@
     - [H-Index (274)](src/arrayshashing/HIndex_274.java)
     - [Insert Delete GetRandom O(1) (380)](src/arrayshashing/InsertDeleteGetRandom_380.java)
     - [Design a Food Rating System (2353)](src/arrayshashing/DesignFoodRatingSystem_2353.java)
+    - [Special Array I (3151)](src/arrayshashing/SpecialArrayI_3151.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

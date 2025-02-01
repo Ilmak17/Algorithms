@@ -89,3 +89,8 @@
 
 - **Link to problem**: [LeetCode 2353](https://leetcode.com/problems/design-a-food-rating-system/)
 - **Solution Code**: [DesignFoodRatingSystem_2353.java](DesignFoodRatingSystem_2353.java)
+
+### Problem: Special Array I - LeetCode 3151
+
+- **Link to problem**: [LeetCode 3151](https://leetcode.com/problems/special-array-i/)
+- **Solution Code**: [SpecialArrayI_3151.java](SpecialArrayI_3151.java)
