@@ -94,3 +94,8 @@
 
 - **Link to problem**: [LeetCode 3151](https://leetcode.com/problems/special-array-i/)
 - **Solution Code**: [SpecialArrayI_3151.java](SpecialArrayI_3151.java)
+
+### Problem: Check if Array Is Sorted and Rotated - LeetCode 3151
+
+- **Link to problem**: [LeetCode 1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+- **Solution Code**: [CheckArraySortedRotated_1752.java](CheckArraySortedRotated_1752.java)

@@ -47,6 +47,7 @@
     - [Insert Delete GetRandom O(1) (380)](src/arrayshashing/InsertDeleteGetRandom_380.java)
     - [Design a Food Rating System (2353)](src/arrayshashing/DesignFoodRatingSystem_2353.java)
     - [Special Array I (3151)](src/arrayshashing/SpecialArrayI_3151.java)
+    - [Check if Array Is Sorted and Rotated (1752)](src/arrayshashing/CheckArraySortedRotated_1752.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
