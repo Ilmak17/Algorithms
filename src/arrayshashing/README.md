@@ -99,3 +99,8 @@
 
 - **Link to problem**: [LeetCode 1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - **Solution Code**: [CheckArraySortedRotated_1752.java](CheckArraySortedRotated_1752.java)
+
+### Problem: Longest Strictly Increasing or Strictly Decreasing Subarray - LeetCode 3105
+
+- **Link to problem**: [LeetCode 3105](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
+- **Solution Code**: [LongestStrictlyIncreasingStrictlyDecreasingSubarray_3105.java](LongestStrictlyIncreasingStrictlyDecreasingSubarray_3105.java)
