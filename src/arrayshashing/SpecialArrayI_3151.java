@@ -2,7 +2,7 @@ package arrayshashing;
 
 /*
  * LeetCode Problem 3151. Special Array I
- * Difficulty: Medium
+ * Difficulty: Easy
  *
  * Problem Statement:
  * An array is considered special if every pair of its adjacent elements contains two numbers with different parity.

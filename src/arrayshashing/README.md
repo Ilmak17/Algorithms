@@ -104,3 +104,8 @@
 
 - **Link to problem**: [LeetCode 3105](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 - **Solution Code**: [LongestStrictlyIncreasingStrictlyDecreasingSubarray_3105.java](LongestStrictlyIncreasingStrictlyDecreasingSubarray_3105.java)
+
+### Problem: Maximum Ascending Subarray Sum - LeetCode 1800
+
+- **Link to problem**: [LeetCode 1800](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
+- **Solution Code**: [MaximumAscendingSubarraySum_1800.java](MaximumAscendingSubarraySum_1800.java)

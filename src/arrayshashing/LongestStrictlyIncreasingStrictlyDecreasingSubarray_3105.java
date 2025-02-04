@@ -3,7 +3,7 @@ package arrayshashing;
 
 /*
  * LeetCode Problem 3105: Longest Strictly Increasing or Strictly Decreasing Subarray
- * Difficulty: Medium
+ * Difficulty: Easy
  *
  * Problem Statement:
  * You are given an array of integers nums. Return the length of the longest subarray of nums which is either
