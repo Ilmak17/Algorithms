@@ -109,3 +109,8 @@
 
 - **Link to problem**: [LeetCode 1800](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 - **Solution Code**: [MaximumAscendingSubarraySum_1800.java](MaximumAscendingSubarraySum_1800.java)
+
+### Problem: Check if One String Swap Can Make Strings Equal - LeetCode 1790
+
+- **Link to problem**: [LeetCode 1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
+- **Solution Code**: [CheckOneStringSwapCanMakeStringsEqual_1790.java](CheckOneStringSwapCanMakeStringsEqual_1790.java)

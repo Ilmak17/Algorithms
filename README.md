@@ -50,6 +50,7 @@
     - [Check if Array Is Sorted and Rotated (1752)](src/arrayshashing/CheckArraySortedRotated_1752.java)
     - [Longest Strictly Increasing or Strictly Decreasing Subarray (3105)](src/arrayshashing/LongestStrictlyIncreasingStrictlyDecreasingSubarray_3105.java)
     - [Maximum Ascending Subarray Sum (1800)](src/arrayshashing/MaximumAscendingSubarraySum_1800.java)
+    - [Check if One String Swap Can Make Strings Equal (1790)](src/arrayshashing/CheckOneStringSwapCanMakeStringsEqual_1790.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
