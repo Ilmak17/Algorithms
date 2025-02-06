@@ -114,3 +114,8 @@
 
 - **Link to problem**: [LeetCode 1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 - **Solution Code**: [CheckOneStringSwapCanMakeStringsEqual_1790.java](CheckOneStringSwapCanMakeStringsEqual_1790.java)
+
+### Problem: Tuple with Same Product - LeetCode 1726
+
+- **Link to problem**: [LeetCode 1726](https://leetcode.com/problems/tuple-with-same-product/)
+- **Solution Code**: [TupleWithSameProduct_1726.java](TupleWithSameProduct_1726.java)
