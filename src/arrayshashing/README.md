@@ -119,3 +119,8 @@
 
 - **Link to problem**: [LeetCode 1726](https://leetcode.com/problems/tuple-with-same-product/)
 - **Solution Code**: [TupleWithSameProduct_1726.java](TupleWithSameProduct_1726.java)
+
+### Problem: Find the Number of Distinct Colors Among the Balls - LeetCode 3160
+
+- **Link to problem**: [LeetCode 3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)
+- **Solution Code**: [FindNumberDistinctColorsAmongBalls_3160.java](FindNumberDistinctColorsAmongBalls_3160.java)
