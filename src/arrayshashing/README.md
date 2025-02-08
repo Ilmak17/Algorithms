@@ -124,3 +124,8 @@
 
 - **Link to problem**: [LeetCode 3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)
 - **Solution Code**: [FindNumberDistinctColorsAmongBalls_3160.java](FindNumberDistinctColorsAmongBalls_3160.java)
+
+### Problem: Design a Number Container System - LeetCode 2349
+
+- **Link to problem**: [LeetCode 2349](https://leetcode.com/problems/design-a-number-container-system/)
+- **Solution Code**: [DesignNumberContainerSystem_2349.java](DesignNumberContainerSystem_2349.java)
