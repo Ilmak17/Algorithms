@@ -54,6 +54,7 @@
     - [Tuple with Same Product (1726)](src/arrayshashing/TupleWithSameProduct_1726.java)
     - [Find the Number of Distinct Colors Among the Balls (3160)](src/arrayshashing/FindNumberDistinctColorsAmongBalls_3160.java)
     - [Design a Number Container System (2349)](src/arrayshashing/DesignNumberContainerSystem_2349.java)
+    - [Count Number of Bad Pairs (2364)](src/arrayshashing/CountNumberBadPairs_2364.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

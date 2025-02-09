@@ -129,3 +129,8 @@
 
 - **Link to problem**: [LeetCode 2349](https://leetcode.com/problems/design-a-number-container-system/)
 - **Solution Code**: [DesignNumberContainerSystem_2349.java](DesignNumberContainerSystem_2349.java)
+
+### Problem: Count Number of Bad Pairs - LeetCode 2364
+
+- **Link to problem**: [LeetCode 2364](https://leetcode.com/problems/count-number-of-bad-pairs/)
+- **Solution Code**: [CountNumberBadPairs_2364.java](CountNumberBadPairs_2364.java)
