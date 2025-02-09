@@ -94,3 +94,8 @@
 
 - **Link to problem**: [LeetCode 743](https://leetcode.com/problems/network-delay-time/)
 - **Solution Code**: [NetworkDelayTime_743.java](NetworkDelayTime_743.java)
+
+### Problem: Path with Maximum Probability - LeetCode 1514
+
+- **Link to problem**: [LeetCode 1514](https://leetcode.com/problems/path-with-maximum-probability/)
+- **Solution Code**: [PathMaximumProbability_1514.java](PathMaximumProbability_1514.java)

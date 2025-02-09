@@ -164,6 +164,7 @@
     - [Maximum Number of Fish in a Grid (2658)](src/graph/MaximumNumberFishGrid_2658.java)
     - [Course Schedule IV (1462)](src/graph/CourseScheduleIV_1462.java)
     - [Network Delay Time (743)](src/graph/NetworkDelayTime_743.java)
+    - [Path with Maximum Probability (1514)](src/graph/PathMaximumProbability_1514.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
