@@ -30,3 +30,9 @@
 - **Link to problem**: [LeetCode 28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - **Solution Code**: [FindIndexFirstOccurrenceString_28.java](FindIndexFirstOccurrenceString_28.java)
 
+
+### Problem: Clear Digits - LeetCode 3174
+
+- **Link to problem**: [LeetCode 3174](https://leetcode.com/problems/clear-digits/)
+- **Solution Code**: [ClearDigits_3174.java](ClearDigits_3174.java)
+
