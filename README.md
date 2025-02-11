@@ -192,6 +192,7 @@
     - [String to Integer (8)](src/string/StringToInteger_8.java)
     - [Find the Index of the First Occurrence in a String (28)](src/string/FindIndexFirstOccurrenceString_28.java)
     - [Clear Digits (3174)](src/string/ClearDigits_3174.java)
+    - [Remove All Occurrences of a Substring (1910)](src/string/RemoveAllOccurrencesSubstring_1910.java)
 
 - [Queue](src/queue/README.md)
     - [Number of Recent Calls (933)](src/queue/NumberRecentCalls_933.java)
