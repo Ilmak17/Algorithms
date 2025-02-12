@@ -134,3 +134,8 @@
 
 - **Link to problem**: [LeetCode 2364](https://leetcode.com/problems/count-number-of-bad-pairs/)
 - **Solution Code**: [CountNumberBadPairs_2364.java](CountNumberBadPairs_2364.java)
+
+### Problem: Max Sum of a Pair With Equal Sum of Digits - LeetCode 2342
+
+- **Link to problem**: [LeetCode 2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
+- **Solution Code**: [MaxSumPairWithEqualSumDigits_2342.java](MaxSumPairWithEqualSumDigits_2342.java)
