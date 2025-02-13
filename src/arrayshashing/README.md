@@ -139,3 +139,8 @@
 
 - **Link to problem**: [LeetCode 2342](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
 - **Solution Code**: [MaxSumPairWithEqualSumDigits_2342.java](MaxSumPairWithEqualSumDigits_2342.java)
+
+### Problem: Minimum Operations to Exceed Threshold Value II - LeetCode 3066
+
+- **Link to problem**: [LeetCode 3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)
+- **Solution Code**: [MinimumOperationsExceedThresholdValueII_3066.java](MinimumOperationsExceedThresholdValueII_3066.java)
