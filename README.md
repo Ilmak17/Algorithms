@@ -57,6 +57,7 @@
     - [Count Number of Bad Pairs (2364)](src/arrayshashing/CountNumberBadPairs_2364.java)
     - [Max Sum of a Pair With Equal Sum of Digits (2342)](src/arrayshashing/MaxSumPairWithEqualSumDigits_2342.java)
     - [Minimum Operations to Exceed Threshold Value II (3066)](src/arrayshashing/MinimumOperationsExceedThresholdValueII_3066.java)
+    - [Product of the Last K Numbers (1352)](src/arrayshashing/ProductLastKNumbers_1352.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

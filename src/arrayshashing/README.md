@@ -144,3 +144,8 @@
 
 - **Link to problem**: [LeetCode 3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)
 - **Solution Code**: [MinimumOperationsExceedThresholdValueII_3066.java](MinimumOperationsExceedThresholdValueII_3066.java)
+
+### Problem: Product of the Last K Numbers - LeetCode 1352
+
+- **Link to problem**: [LeetCode 1352](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+- **Solution Code**: [ProductLastKNumbers_1352.java](ProductLastKNumbers_1352.java)
