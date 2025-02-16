@@ -168,6 +168,7 @@
     - [Course Schedule IV (1462)](src/graph/CourseScheduleIV_1462.java)
     - [Network Delay Time (743)](src/graph/NetworkDelayTime_743.java)
     - [Path with Maximum Probability (1514)](src/graph/PathMaximumProbability_1514.java)
+    - [Set Matrix Zeroes (73)](src/graph/SetMatrixZeroes_73.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)

@@ -99,3 +99,8 @@
 
 - **Link to problem**: [LeetCode 1514](https://leetcode.com/problems/path-with-maximum-probability/)
 - **Solution Code**: [PathMaximumProbability_1514.java](PathMaximumProbability_1514.java)
+
+### Problem: Set Matrix Zeroes - LeetCode 73
+
+- **Link to problem**: [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/)
+- **Solution Code**: [SetMatrixZeroes_73.java](SetMatrixZeroes_73.java)
