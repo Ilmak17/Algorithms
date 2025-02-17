@@ -40,3 +40,8 @@
 - **Link to problem**: [LeetCode 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 - **Solution Code**: [RemoveAllOccurrencesSubstring_1910.java](RemoveAllOccurrencesSubstring_1910.java)
 
+### Problem: Longest Common Prefix - LeetCode 14
+
+- **Link to problem**: [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)
+- **Solution Code**: [LongestCommonPrefix_14.java](LongestCommonPrefix_14.java)
+
