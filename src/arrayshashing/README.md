@@ -149,3 +149,8 @@
 
 - **Link to problem**: [LeetCode 1352](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - **Solution Code**: [ProductLastKNumbers_1352.java](ProductLastKNumbers_1352.java)
+
+### Problem: Maximum Population Year - LeetCode 1854
+
+- **Link to problem**: [LeetCode 1854](https://leetcode.com/problems/maximum-population-year/)
+- **Solution Code**: [MaximumPopulationYear_1854.java](MaximumPopulationYear_1854.java)
