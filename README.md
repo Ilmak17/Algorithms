@@ -59,6 +59,7 @@
     - [Minimum Operations to Exceed Threshold Value II (3066)](src/arrayshashing/MinimumOperationsExceedThresholdValueII_3066.java)
     - [Product of the Last K Numbers (1352)](src/arrayshashing/ProductLastKNumbers_1352.java)
     - [Maximum Population Year (1854)](src/arrayshashing/MaximumPopulationYear_1854.java)
+    - [Count Elements With Maximum Frequency (3005)](src/arrayshashing/CountElementsWithMaximumFrequency_3005.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

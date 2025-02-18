@@ -154,3 +154,8 @@
 
 - **Link to problem**: [LeetCode 1854](https://leetcode.com/problems/maximum-population-year/)
 - **Solution Code**: [MaximumPopulationYear_1854.java](MaximumPopulationYear_1854.java)
+
+### Problem: Count Elements With Maximum Frequency - LeetCode 3005
+
+- **Link to problem**: [LeetCode 3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
+- **Solution Code**: [CountElementsWithMaximumFrequency_3005.java](CountElementsWithMaximumFrequency_3005.java)
