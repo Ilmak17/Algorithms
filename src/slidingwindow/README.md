@@ -19,3 +19,8 @@
 
 - **Link to problem**: [LeetCode 219](https://leetcode.com/problems/contains-duplicate-ii/)
 - **Solution Code**: [ContainsDuplicateII_219.java](ContainsDuplicateII_219.java)
+
+### Problem: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit - LeetCode 1438
+
+- **Link to problem**: [LeetCode 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+- **Solution Code**: [LongestContinuousSubarrayAbsoluteDiffLessThanEqualLimit_1438.java](LongestContinuousSubarrayAbsoluteDiffLessThanEqualLimit_1438.java)
