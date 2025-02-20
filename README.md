@@ -204,3 +204,4 @@
 
 - [Queue](src/queue/README.md)
     - [Number of Recent Calls (933)](src/queue/NumberRecentCalls_933.java)
+    - [Minimum Number of Coins for Fruits (2944)](src/queue/MinimumNumberCoinsFruits_2944.java)
