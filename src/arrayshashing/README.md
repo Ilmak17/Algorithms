@@ -159,3 +159,8 @@
 
 - **Link to problem**: [LeetCode 3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 - **Solution Code**: [CountElementsWithMaximumFrequency_3005.java](CountElementsWithMaximumFrequency_3005.java)
+
+### Problem: Minimum Number of Steps to Make Two Strings Anagram - LeetCode 1347
+
+- **Link to problem**: [LeetCode 1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
+- **Solution Code**: [MinimumNumberStepsMakeTwoStringsAnagram_1347.java](MinimumNumberStepsMakeTwoStringsAnagram_1347.java)
