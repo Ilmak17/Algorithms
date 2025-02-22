@@ -164,3 +164,8 @@
 
 - **Link to problem**: [LeetCode 1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
 - **Solution Code**: [MinimumNumberStepsMakeTwoStringsAnagram_1347.java](MinimumNumberStepsMakeTwoStringsAnagram_1347.java)
+
+### Problem: Least Number of Unique Integers after K Removals - LeetCode 1481
+
+- **Link to problem**: [LeetCode 1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
+- **Solution Code**: [LeastNumberUniqueIntegersAfterKRemovals_1481.java](LeastNumberUniqueIntegersAfterKRemovals_1481.java)
