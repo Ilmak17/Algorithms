@@ -101,6 +101,7 @@
     - [Permutation in String (567)](src/slidingwindow/PermutationInString_567.java)
     - [Contains Duplicate II (219)](src/slidingwindow/ContainsDuplicateII_219.java)
     - [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (1438)](src/slidingwindow/LongestContinuousSubarrayAbsoluteDiffLessThanEqualLimit_1438.java)
+    - [Continuous Subarrays (2762)](src/slidingwindow/ContinuousSubarrays_2762.java)
 
 - [Linked List](src/linkedlist/README.md)
     - [Reverse Linked List (206)](src/linkedlist/ReverseLinkedList_206.java)

@@ -24,3 +24,8 @@
 
 - **Link to problem**: [LeetCode 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
 - **Solution Code**: [LongestContinuousSubarrayAbsoluteDiffLessThanEqualLimit_1438.java](LongestContinuousSubarrayAbsoluteDiffLessThanEqualLimit_1438.java)
+
+### Problem: Continuous Subarrays - LeetCode 2762
+
+- **Link to problem**: [LeetCode 2762](https://leetcode.com/problems/continuous-subarrays/)
+- **Solution Code**: [ContinuousSubarrays_2762.java](ContinuousSubarrays_2762.java)
