@@ -39,3 +39,8 @@
 
 - **Link to problem**: [LeetCode 443](https://leetcode.com/problems/string-compression/)
 - **Solution Code**: [StringCompression_443.java](StringCompression_443.java)
+
+### Problem: Merge Strings Alternately - LeetCode 1768
+
+- **Link to problem**: [LeetCode 1768](https://leetcode.com/problems/merge-strings-alternately/)
+- **Solution Code**: [MergeStringsAlternately_1768.java](MergeStringsAlternately_1768.java)

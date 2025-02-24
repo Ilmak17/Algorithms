@@ -72,6 +72,7 @@
     - [Move Zeros (283)](src/twopointers/MoveZeroes_283.java)
     - [4 Sum (18)](src/twopointers/FourSum_18.java)
     - [String Compression (443)](src/twopointers/StringCompression_443.java)
+    - [Merge Strings Alternately (1768)](src/twopointers/MergeStringsAlternately_1768.java)
 
 - [Stack](src/stack/README.md)
     - [Valid Parentheses (20)](src/stack/ValidParentheses_20.java)
