@@ -79,3 +79,8 @@
 
 - **Link to problem**: [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - **Solution Code**: [BinaryTreeInorderTraversal_94.java](BinaryTreeInorderTraversal_94.java)
+
+### Problem: Binary Tree Preorder Traversal - LeetCode 144
+
+- **Link to problem**: [LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- **Solution Code**: [BinaryTreePreorderTraversal_144.java](BinaryTreePreorderTraversal_144.java)
