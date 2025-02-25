@@ -145,6 +145,7 @@
     - [Construct Binary Tree from Preorder and Inorder Traversal (105)](src/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)
     - [Find Largest Value in Each Tree Row (515)](src/tree/FindLargestValueInEachTreeRow_515.java)
     - [Convert Sorted List to Binary Search Tree (109)](src/tree/ConvertSortedListToBinarySearchTree_109.java)
+    - [Binary Tree Inorder Traversal (94)](src/tree/BinaryTreeInorderTraversal_94.java)
 
 - [Heap](src/heap/README.md)
     - [Kth Largest Element in a Stream (703)](src/heap/KthLargestElementInStream_703.java)

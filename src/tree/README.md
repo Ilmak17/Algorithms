@@ -74,3 +74,8 @@
 
 - **Link to problem**: [LeetCode 109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 - **Solution Code**: [ConvertSortedListToBinarySearchTree_109.java](ConvertSortedListToBinarySearchTree_109.java)
+
+### Problem: Binary Tree Inorder Traversal - LeetCode 94
+
+- **Link to problem**: [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- **Solution Code**: [BinaryTreeInorderTraversal_94.java](BinaryTreeInorderTraversal_94.java)
