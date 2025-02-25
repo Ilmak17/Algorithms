@@ -84,3 +84,7 @@
 
 - **Link to problem**: [LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - **Solution Code**: [BinaryTreePreorderTraversal_144.java](BinaryTreePreorderTraversal_144.java)
+
+### Problem: Binary Tree Postorder Traversal - LeetCode 145
+- **Link to problem**: [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- **Solution Code**: [BinaryTreePostorderTraversal_145.java](BinaryTreePostorderTraversal_145.java)
