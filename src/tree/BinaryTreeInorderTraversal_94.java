@@ -12,14 +12,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BinaryTreeInorderTraversal_94 {
-    public static List<Integer> inorderTraversal(TreeNode root) {
+    public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         helper(list, root);
 
         return list;
     }
 
-    public static void helper(List<Integer> integerList, TreeNode root) {
+    private void helper(List<Integer> integerList, TreeNode root) {
         if (root == null) return;
         helper(integerList, root.left);
         integerList.add(root.val);
