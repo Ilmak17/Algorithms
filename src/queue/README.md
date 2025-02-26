@@ -9,3 +9,8 @@
 
 - **Link to problem**: [LeetCode 933](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/)
 - **Solution Code**: [MinimumNumberCoinsFruits_2944.java](MinimumNumberCoinsFruits_2944.java)
+
+### Problem: Sum of Subarray Minimums - LeetCode 907
+
+- **Link to problem**: [LeetCode 907](https://leetcode.com/problems/sum-of-subarray-minimums/)
+- **Solution Code**: [SumSubarrayMinimums_907.java](SumSubarrayMinimums_907.java)
