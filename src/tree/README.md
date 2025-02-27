@@ -88,3 +88,7 @@
 ### Problem: Binary Tree Postorder Traversal - LeetCode 145
 - **Link to problem**: [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - **Solution Code**: [BinaryTreePostorderTraversal_145.java](BinaryTreePostorderTraversal_145.java)
+
+### Problem: Delete Node in a BST - LeetCode 450
+- **Link to problem**: [LeetCode 450](https://leetcode.com/problems/delete-node-in-a-bst/)
+- **Solution Code**: [DeleteNodeBST_450.java](DeleteNodeBST_450.java)
