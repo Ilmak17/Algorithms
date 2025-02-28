@@ -92,3 +92,7 @@
 ### Problem: Delete Node in a BST - LeetCode 450
 - **Link to problem**: [LeetCode 450](https://leetcode.com/problems/delete-node-in-a-bst/)
 - **Solution Code**: [DeleteNodeBST_450.java](DeleteNodeBST_450.java)
+
+### Problem: Serialize and Deserialize BST - LeetCode 449
+- **Link to problem**: [LeetCode 449](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+- **Solution Code**: [SerializeDeserializeBST_449.java](SerializeDeserializeBST_449.java)
