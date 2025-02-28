@@ -96,3 +96,7 @@
 ### Problem: Serialize and Deserialize BST - LeetCode 449
 - **Link to problem**: [LeetCode 449](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 - **Solution Code**: [SerializeDeserializeBST_449.java](SerializeDeserializeBST_449.java)
+
+### Problem: Serialize and Deserialize Binary Tree - LeetCode 297
+- **Link to problem**: [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- **Solution Code**: [SerializeDeserializeBinaryTree_297.java](SerializeDeserializeBinaryTree_297.java)
