@@ -43,4 +43,38 @@ public class CopyLinkedList_138 {
 
         return map.get(head);
     }
+
+    public Node copyRandomListSpaceOptimized(Node head) {
+        if (head == null) return null;
+
+        Node current = head;
+        while (current != null) {
+            Node copy = new Node(current.val);
+            copy.next = current.next;
+            current.next = copy;
+            current = copy.next;
+        }
+
+        current = head;
+        while (current != null) {
+            if (current.random != null) {
+                current.next.random = current.random.next;
+            }
+            current = current.next.next;
+        }
+
+        current = head;
+        Node copiedHead = head.next;
+        Node copy = copiedHead;
+        while (current != null) {
+            current.next = current.next.next;
+            if (copy.next != null) {
+                copy.next = copy.next.next;
+            }
+            current = current.next;
+            copy = copy.next;
+        }
+
+        return copiedHead;
+    }
 }
