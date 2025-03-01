@@ -100,3 +100,7 @@
 ### Problem: Serialize and Deserialize Binary Tree - LeetCode 297
 - **Link to problem**: [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - **Solution Code**: [SerializeDeserializeBinaryTree_297.java](SerializeDeserializeBinaryTree_297.java)
+
+### Problem: Clone Binary Tree With Random Pointer - LeetCode 1485
+- **Link to problem**: [LeetCode 1485](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
+- **Solution Code**: [CloneBinaryTreeWithRandomPointer_1485.java](CloneBinaryTreeWithRandomPointer_1485.java)
