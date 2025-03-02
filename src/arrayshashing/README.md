@@ -169,3 +169,8 @@
 
 - **Link to problem**: [LeetCode 1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - **Solution Code**: [LeastNumberUniqueIntegersAfterKRemovals_1481.java](LeastNumberUniqueIntegersAfterKRemovals_1481.java)
+
+### Problem: Queue Reconstruction by Height - LeetCode 406
+
+- **Link to problem**: [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/)
+- **Solution Code**: [QueueReconstructionByHeight_406.java](QueueReconstructionByHeight_406.java)

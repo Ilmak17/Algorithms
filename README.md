@@ -62,6 +62,7 @@
     - [Count Elements With Maximum Frequency (3005)](src/arrayshashing/CountElementsWithMaximumFrequency_3005.java)
     - [Minimum Number of Steps to Make Two Strings Anagram (1347)](src/arrayshashing/MinimumNumberStepsMakeTwoStringsAnagram_1347.java)
     - [Least Number of Unique Integers after K Removals (1481)](src/arrayshashing/LeastNumberUniqueIntegersAfterKRemovals_1481.java)
+    - [Queue Reconstruction by Height (406)](src/arrayshashing/QueueReconstructionByHeight_406.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
