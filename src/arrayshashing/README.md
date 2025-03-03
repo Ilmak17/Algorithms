@@ -174,3 +174,8 @@
 
 - **Link to problem**: [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/)
 - **Solution Code**: [QueueReconstructionByHeight_406.java](QueueReconstructionByHeight_406.java)
+
+### Problem: Count Number of Teams - LeetCode 1395
+
+- **Link to problem**: [LeetCode 1395](https://leetcode.com/problems/count-number-of-teams/)
+- **Solution Code**: [CountNumberTeams_1395.java](CountNumberTeams_1395.java)
