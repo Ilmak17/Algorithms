@@ -179,3 +179,8 @@
 
 - **Link to problem**: [LeetCode 1395](https://leetcode.com/problems/count-number-of-teams/)
 - **Solution Code**: [CountNumberTeams_1395.java](CountNumberTeams_1395.java)
+
+### Problem: Rotate Image - LeetCode 48
+
+- **Link to problem**: [LeetCode 48](https://leetcode.com/problems/rotate-image/)
+- **Solution Code**: [RotateImage_48.java](RotateImage_48.java)

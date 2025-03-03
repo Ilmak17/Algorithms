@@ -64,6 +64,7 @@
     - [Least Number of Unique Integers after K Removals (1481)](src/arrayshashing/LeastNumberUniqueIntegersAfterKRemovals_1481.java)
     - [Queue Reconstruction by Height (406)](src/arrayshashing/QueueReconstructionByHeight_406.java)
     - [Count Number of Teams (1395)](src/arrayshashing/CountNumberTeams_1395.java)
+    - [Rotate Image (48)](src/arrayshashing/RotateImage_48.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
