@@ -184,3 +184,8 @@
 
 - **Link to problem**: [LeetCode 48](https://leetcode.com/problems/rotate-image/)
 - **Solution Code**: [RotateImage_48.java](RotateImage_48.java)
+
+### Problem: Spiral Matrix - LeetCode 54
+
+- **Link to problem**: [LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
+- **Solution Code**: [SpiralMatrix_54.java](SpiralMatrix_54.java)
