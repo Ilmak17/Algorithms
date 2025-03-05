@@ -189,3 +189,8 @@
 
 - **Link to problem**: [LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
 - **Solution Code**: [SpiralMatrix_54.java](SpiralMatrix_54.java)
+
+### Problem: Set Matrix Zeroes - LeetCode 73
+
+- **Link to problem**: [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/)
+- **Solution Code**: [SetMatrixZeroes_73.java](SetMatrixZeroes_73.java)
