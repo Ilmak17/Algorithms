@@ -67,6 +67,7 @@
     - [Rotate Image (48)](src/arrayshashing/RotateImage_48.java)
     - [Spiral Matrix (54)](src/arrayshashing/SpiralMatrix_54.java)
     - [Set Matrix Zeroes (73)](src/arrayshashing/SetMatrixZeroes_73.java)
+    - [Happy Number (202)](src/arrayshashing/HappyNumber_202.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

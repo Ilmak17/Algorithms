@@ -194,3 +194,8 @@
 
 - **Link to problem**: [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/)
 - **Solution Code**: [SetMatrixZeroes_73.java](SetMatrixZeroes_73.java)
+
+### Problem: Happy Number - LeetCode 202
+
+- **Link to problem**: [LeetCode 202](https://leetcode.com/problems/happy-number/)
+- **Solution Code**: [HappyNumber_202.java](HappyNumber_202.java)
