@@ -199,3 +199,8 @@
 
 - **Link to problem**: [LeetCode 202](https://leetcode.com/problems/happy-number/)
 - **Solution Code**: [HappyNumber_202.java](HappyNumber_202.java)
+
+### Problem: Plus One - LeetCode 66
+
+- **Link to problem**: [LeetCode 66](https://leetcode.com/problems/plus-one/)
+- **Solution Code**: [PlusOne_66.java](PlusOne_66.java)

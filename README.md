@@ -68,6 +68,7 @@
     - [Spiral Matrix (54)](src/arrayshashing/SpiralMatrix_54.java)
     - [Set Matrix Zeroes (73)](src/arrayshashing/SetMatrixZeroes_73.java)
     - [Happy Number (202)](src/arrayshashing/HappyNumber_202.java)
+    - [Plus One (66)](src/arrayshashing/PlusOne_66.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
@@ -188,7 +189,6 @@
     - [Course Schedule IV (1462)](src/graph/CourseScheduleIV_1462.java)
     - [Network Delay Time (743)](src/graph/NetworkDelayTime_743.java)
     - [Path with Maximum Probability (1514)](src/graph/PathMaximumProbability_1514.java)
-    - [Set Matrix Zeroes (73)](src/graph/SetMatrixZeroes_73.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
