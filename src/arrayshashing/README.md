@@ -204,3 +204,8 @@
 
 - **Link to problem**: [LeetCode 66](https://leetcode.com/problems/plus-one/)
 - **Solution Code**: [PlusOne_66.java](PlusOne_66.java)
+
+### Problem: Reverse Integer - LeetCode 7
+
+- **Link to problem**: [LeetCode 7](https://leetcode.com/problems/reverse-integer/)
+- **Solution Code**: [ReverseInteger_7.java](ReverseInteger_7.java)
