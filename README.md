@@ -70,6 +70,7 @@
     - [Happy Number (202)](src/arrayshashing/HappyNumber_202.java)
     - [Plus One (66)](src/arrayshashing/PlusOne_66.java)
     - [Reverse Integer (7)](src/arrayshashing/ReverseInteger_7.java)
+    - [Sort Characters By Frequency (451)](src/arrayshashing/SortCharactersByFrequency_451.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
