@@ -214,3 +214,8 @@
 
 - **Link to problem**: [LeetCode 451](https://leetcode.com/problems/reverse-integer/)
 - **Solution Code**: [SortCharactersByFrequency_451.java](SortCharactersByFrequency_451.java)
+
+### Problem: Intersection of Two Arrays - LeetCode 349
+
+- **Link to problem**: [LeetCode 349](https://leetcode.com/problems/intersection-of-two-arrays/)
+- **Solution Code**: [IntersectionTwoArrays_349.java](IntersectionTwoArrays_349.java)
