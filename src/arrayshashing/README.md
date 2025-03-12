@@ -224,3 +224,8 @@
 
 - **Link to problem**: [LeetCode 2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 - **Solution Code**: [RearrangeArrayElementsSign_2149.java](RearrangeArrayElementsSign_2149.java)
+
+### Problem: Majority Element - LeetCode 169
+
+- **Link to problem**: [LeetCode 169](https://leetcode.com/problems/majority-element/)
+- **Solution Code**: [MajorityElement_169.java](MajorityElement_169.java)
