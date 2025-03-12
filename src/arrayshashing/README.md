@@ -229,3 +229,8 @@
 
 - **Link to problem**: [LeetCode 169](https://leetcode.com/problems/majority-element/)
 - **Solution Code**: [MajorityElement_169.java](MajorityElement_169.java)
+
+### Problem: Majority Element II - LeetCode 229
+
+- **Link to problem**: [LeetCode 229](https://leetcode.com/problems/majority-element-ii/)
+- **Solution Code**: [MajorityElementII_229.java](MajorityElementII_229.java)

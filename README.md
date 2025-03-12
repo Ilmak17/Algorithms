@@ -74,6 +74,7 @@
     - [Intersection of Two Arrays (349)](src/arrayshashing/IntersectionTwoArrays_349.java)
     - [Rearrange Array Elements by Sign (2149)](src/arrayshashing/RearrangeArrayElementsSign_2149.java)
     - [Majority Element (169)](src/arrayshashing/MajorityElement_169.java)
+    - [Majority Element II (229)](src/arrayshashing/MajorityElementII_229.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

@@ -1,35 +1,55 @@
 package arrayshashing;
 
 /*
- * LeetCode Problem 36: Valid Sudoku
+ * LeetCode Problem 229: Majority Element II
  * Difficulty: Medium
  *
  * Problem Statement:
- * Determine if a 9 x 9 Sudoku board is valid.
+ * Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
  */
 
-
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
 public class MajorityElementII_229 {
 
     public List<Integer> majorityElement(int[] nums) {
-        Map<Integer, Integer> count = new HashMap<>();
-        for (int num : nums) {
-            count.put(num, count.getOrDefault(num, 0) + 1);
+        int cnt1 = 0;
+        int cnt2 = 0;
+        int el1 = 0;
+        int el2 = 0;
+
+        for (int n : nums) {
+            if (cnt1 == 0 && n != el2) {
+                cnt1++;
+                el1 = n;
+            } else if (cnt2 == 0 && n != el1) {
+                cnt2++;
+                el2 = n;
+            } else if (n == el1) {
+                cnt1++;
+            } else if (n == el2) {
+                cnt2++;
+            } else {
+                cnt1--;
+                cnt2--;
+            }
+        }
+
+        cnt1 = 0;
+        cnt2 = 0;
+
+        for (int n : nums) {
+            if (n == el1) {
+                cnt1++;
+            } else if (n == el2) {
+                cnt2++;
+            }
         }
 
         List<Integer> res = new ArrayList<>();
-        for (int key : count.keySet()) {
-            if (count.get(key) > nums.length / 3) {
-                res.add(key);
-            }
-        }
+        if (cnt1 > nums.length / 3) res.add(el1);
+        if (cnt2 > nums.length / 3) res.add(el2);
 
         return res;
     }
