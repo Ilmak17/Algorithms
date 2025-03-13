@@ -94,3 +94,8 @@
 
 - **Link to problem**: [LeetCode 72](https://leetcode.com/problems/edit-distance/)
 - **Solution Code**: [EditDistance_72.java](EditDistance_72.java)
+
+### Problem: Pascal's Triangle - LeetCode 118
+
+- **Link to problem**: [LeetCode 118](https://leetcode.com/problems/pascals-triangle/)
+- **Solution Code**: [PascalsTriangle_118.java](PascalsTriangle_118.java)
