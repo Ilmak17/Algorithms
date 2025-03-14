@@ -234,3 +234,8 @@
 
 - **Link to problem**: [LeetCode 229](https://leetcode.com/problems/majority-element-ii/)
 - **Solution Code**: [MajorityElementII_229.java](MajorityElementII_229.java)
+
+### Problem: Reverse Pairs - LeetCode 493
+
+- **Link to problem**: [LeetCode 493](https://leetcode.com/problems/reverse-pairs/)
+- **Solution Code**: [ReversePairs_493.java](ReversePairs_493.java)

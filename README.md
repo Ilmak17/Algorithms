@@ -76,6 +76,7 @@
     - [Rearrange Array Elements by Sign (2149)](src/arrayshashing/RearrangeArrayElementsSign_2149.java)
     - [Majority Element (169)](src/arrayshashing/MajorityElement_169.java)
     - [Majority Element II (229)](src/arrayshashing/MajorityElementII_229.java)
+    - [Reverse Pairs (493)](src/arrayshashing/ReversePairs_493.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
