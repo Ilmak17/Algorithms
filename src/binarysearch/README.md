@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 69](https://leetcode.com/problems/sqrtx/)
 - **Solution Code**: [SqrtX_69.java](SqrtX_69.java)
+
+### Problem: First and last occurrence - LeetCode 34
+
+- **Link to problem**: [LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- **Solution Code**: [FirstAndLastOccurrence_34.java](FirstAndLastOccurrence_34.java)
