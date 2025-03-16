@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - **Solution Code**: [FirstAndLastOccurrence_34.java](FirstAndLastOccurrence_34.java)
+
+### Problem: Single Element in a Sorted Array - LeetCode 540
+
+- **Link to problem**: [LeetCode 540](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- **Solution Code**: [SingleElementInSortedArray_540.java](SingleElementInSortedArray_540.java)
