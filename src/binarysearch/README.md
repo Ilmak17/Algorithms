@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 540](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - **Solution Code**: [SingleElementInSortedArray_540.java](SingleElementInSortedArray_540.java)
+
+### Problem: Find the Smallest Divisor Given a Threshold - LeetCode 1283
+
+- **Link to problem**: [LeetCode 540](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- **Solution Code**: [FindSmallestDivisorGivenThreshold_1283.java](FindSmallestDivisorGivenThreshold_1283.java)
