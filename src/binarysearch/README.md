@@ -67,5 +67,10 @@
 
 ### Problem: Find the Smallest Divisor Given a Threshold - LeetCode 1283
 
-- **Link to problem**: [LeetCode 540](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- **Link to problem**: [LeetCode 1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 - **Solution Code**: [FindSmallestDivisorGivenThreshold_1283.java](FindSmallestDivisorGivenThreshold_1283.java)
+
+### Problem: Minimum Number of Days to Make m Bouquets - LeetCode 1482
+
+- **Link to problem**: [LeetCode 1482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- **Solution Code**: [MinimumNumberDaysMakemBouquets_1482.java](MinimumNumberDaysMakemBouquets_1482.java)
