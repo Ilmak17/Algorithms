@@ -74,3 +74,8 @@
 
 - **Link to problem**: [LeetCode 1482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 - **Solution Code**: [MinimumNumberDaysMakemBouquets_1482.java](MinimumNumberDaysMakemBouquets_1482.java)
+
+### Problem: Maximum Candies Allocated to K Children - LeetCode 2226
+
+- **Link to problem**: [LeetCode 2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)
+- **Solution Code**: [MaximumCandiesAllocatedKChildren_2226.java](MaximumCandiesAllocatedKChildren_2226.java)

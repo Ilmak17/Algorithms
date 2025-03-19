@@ -147,6 +147,7 @@
     - [Single Element in a Sorted Array (540)](src/binarysearch/SingleElementInSortedArray_540.java)
     - [Find the Smallest Divisor Given a Threshold (1283)](src/binarysearch/FindSmallestDivisorGivenThreshold_1283.java)
     - [Minimum Number of Days to Make m Bouquets (1482)](src/binarysearch/MinimumNumberDaysMakemBouquets_1482.java)
+    - [Maximum Candies Allocated to K Children (2226)](src/binarysearch/MaximumCandiesAllocatedKChildren_2226.java)
 
 - [Tree](src/tree/README.md)
     - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
