@@ -79,3 +79,8 @@
 
 - **Link to problem**: [LeetCode 2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)
 - **Solution Code**: [MaximumCandiesAllocatedKChildren_2226.java](MaximumCandiesAllocatedKChildren_2226.java)
+
+### Problem: Split Array Largest Sum - LeetCode 410
+
+- **Link to problem**: [LeetCode 410](https://leetcode.com/problems/SplitArrayLargestSum_410/)
+- **Solution Code**: [SplitArrayLargestSum_410.java](SplitArrayLargestSum_410.java)
