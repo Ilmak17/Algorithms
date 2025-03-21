@@ -14,39 +14,25 @@ package binarysearch;
 
 public class Search2DMatrix_74 {
 
-    public boolean searchMatrix(int[][] matrix, int target) {
-        int rows = matrix.length;
-        int cols = matrix[0].length;
+    public boolean searchMatrix(int[][] mat, int target) {
+        int n = mat.length;
+        int m = mat[0].length;
 
-        int top = 0;
-        int bot = rows - 1;
-        while (top <= bot) {
-            int row = (top + bot) / 2;
-            if (target > matrix[row][cols - 1]) {
-                top = row + 1;
-            } else if (target < matrix[row][0]) {
-                bot = row - 1;
-            } else {
-                break;
-            }
-        }
+        int low = 0;
+        int high = n * m - 1;
 
-        if (top > bot) {
-            return false;
-        }
+        while (low <= high) {
+            int mid = (low + high) / 2;
 
-        int row = (top + bot) / 2;
-        int l = 0;
-        int r = cols - 1;
-        while (l <= r) {
-            int m = (l + r) / 2;
-            if (target > matrix[row][m]) {
-                l = m + 1;
-            } else if (target < matrix[row][m]) {
-                r = m - 1;
-            } else {
+            int row = mid / m;
+            int col = mid % m;
+
+            if (mat[row][col] == target)
                 return true;
-            }
+            else if (mat[row][col] < target)
+                low = mid + 1;
+            else
+                high = mid - 1;
         }
 
         return false;
