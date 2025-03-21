@@ -149,6 +149,7 @@
     - [Minimum Number of Days to Make m Bouquets (1482)](src/binarysearch/MinimumNumberDaysMakemBouquets_1482.java)
     - [Maximum Candies Allocated to K Children (2226)](src/binarysearch/MaximumCandiesAllocatedKChildren_2226.java)
     - [Split Array Largest Sum (410)](src/binarysearch/SplitArrayLargestSum_410.java)
+    - [Search a 2D Matrix II (240)](src/binarysearch/Search2DMatrixII_240.java)
 
 - [Tree](src/tree/README.md)
     - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
