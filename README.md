@@ -150,6 +150,7 @@
     - [Maximum Candies Allocated to K Children (2226)](src/binarysearch/MaximumCandiesAllocatedKChildren_2226.java)
     - [Split Array Largest Sum (410)](src/binarysearch/SplitArrayLargestSum_410.java)
     - [Search a 2D Matrix II (240)](src/binarysearch/Search2DMatrixII_240.java)
+    - [Find a Peak Element II (1901)](src/binarysearch/FindPeakElementII_1901.java)
 
 - [Tree](src/tree/README.md)
     - [Invert Binary Tree (226)](src/tree/InvertBinaryTree_226.java)
