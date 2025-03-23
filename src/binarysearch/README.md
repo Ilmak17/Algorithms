@@ -89,3 +89,8 @@
 
 - **Link to problem**: [LeetCode 240](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - **Solution Code**: [Search2DMatrixII_240.java](Search2DMatrixII_240.java)
+
+### Problem: Find a Peak Element II - LeetCode 1901
+
+- **Link to problem**: [LeetCode 1901](https://leetcode.com/problems/find-a-peak-element-ii/)
+- **Solution Code**: [FindPeakElementII_1901.java](FindPeakElementII_1901.java)
