@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 77](https://leetcode.com/problems/combinations/)
 - **Solution Code**: [Combinations_77.java](Combinations_77.java)
+
+### Problem: Pow(x, n) - LeetCode 50
+
+- **Link to problem**: [LeetCode 50](https://leetcode.com/problems/powx-n/)
+- **Solution Code**: [PowXN_50.java](PowXN_50.java)
