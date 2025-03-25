@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 50](https://leetcode.com/problems/powx-n/)
 - **Solution Code**: [PowXN_50.java](PowXN_50.java)
+
+### Problem: Combination Sum III - LeetCode 216
+
+- **Link to problem**: [LeetCode 216](https://leetcode.com/problems/combinatino-sum-iii/)
+- **Solution Code**: [CombinationSumIII_216.java](CombinationSumIII_216.java)
