@@ -239,3 +239,8 @@
 
 - **Link to problem**: [LeetCode 493](https://leetcode.com/problems/reverse-pairs/)
 - **Solution Code**: [ReversePairs_493.java](ReversePairs_493.java)
+
+### Problem: Find Pivot Index - LeetCode 724
+
+- **Link to problem**: [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)
+- **Solution Code**: [FindPivotIndex_724.java](FindPivotIndex_724.java)
