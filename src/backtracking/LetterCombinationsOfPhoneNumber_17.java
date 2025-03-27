@@ -17,23 +17,26 @@ import java.util.List;
 public class LetterCombinationsOfPhoneNumber_17 {
     private final List<String> res = new ArrayList<>();
     private static final String[] DIGITS = {
-            "", "", "abc", "def", "ghi", "jkl", "mno", "qprs", "tuv", "wxyz"
+            "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
     };
 
     public List<String> letterCombinations(String digits) {
-        if (digits.isEmpty()) return res;
-        backtrack(0, "", digits);
+        if (digits == null || digits.isEmpty()) return res;
+        backtrack(0, new StringBuilder(), digits);
         return res;
     }
 
-    private void backtrack(int i, String curStr, String digits) {
-        if (curStr.length() == digits.length()) {
-            res.add(curStr);
+    private void backtrack(int index, StringBuilder curStr, String digits) {
+        if (index == digits.length()) {
+            res.add(curStr.toString());
             return;
         }
-        String chars = DIGITS[digits.charAt(i) - '0'];
+
+        String chars = DIGITS[digits.charAt(index) - '0'];
         for (char c : chars.toCharArray()) {
-            backtrack(i + 1, curStr + c, digits);
+            curStr.append(c);
+            backtrack(index + 1, curStr, digits);
+            curStr.deleteCharAt(curStr.length() - 1);
         }
     }
 }
