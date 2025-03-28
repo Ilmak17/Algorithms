@@ -15,7 +15,9 @@ import java.util.List;
 public class PalindromePartitioning_131 {
     public List<List<String>> partition(String s) {
         List<List<String>> res = new ArrayList<>();
+
         backtrack(s, 0, res, new ArrayList<>());
+
         return res;
     }
 
@@ -25,6 +27,7 @@ public class PalindromePartitioning_131 {
                 return false;
             }
         }
+
         return true;
     }
 
