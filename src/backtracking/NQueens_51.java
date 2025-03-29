@@ -2,7 +2,7 @@ package backtracking;
 
 /*
  * LeetCode Problem 51: N-Queens
- * Difficulty: Medium
+ * Difficulty: Hard
  *
  * Problem Statement:
  * The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
