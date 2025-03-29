@@ -113,6 +113,7 @@
     - [Combinations (77)](src/backtracking/Combinations_77.java)
     - [Pow x n (50)](src/backtracking/PowXN_50.java)
     - [Combination Sum III (216)](src/backtracking/CombinationSumIII_216.java)
+    - [N Queens (51)](src/backtracking/NQueens_51.java)
 
 - [Sliding Window](src/slidingwindow/README.md)
     - [Longest Repeating Character Replacement (424)](src/slidingwindow/LongestRepeatingCharacterReplacement_424.java)

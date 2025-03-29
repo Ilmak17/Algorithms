@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 216](https://leetcode.com/problems/combinatino-sum-iii/)
 - **Solution Code**: [CombinationSumIII_216.java](CombinationSumIII_216.java)
+
+### Problem: N-Queens - LeetCode 51
+
+- **Link to problem**: [LeetCode 51](https://leetcode.com/problems/n-queens/)
+- **Solution Code**: [NQueens_51.java](NQueens_51.java)
