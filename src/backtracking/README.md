@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 51](https://leetcode.com/problems/n-queens/)
 - **Solution Code**: [NQueens_51.java](NQueens_51.java)
+
+### Problem: Sudoku Solver - LeetCode 37
+
+- **Link to problem**: [LeetCode 37](https://leetcode.com/problems/sudoku-solver/)
+- **Solution Code**: [SudokuSolver_37.java](SudokuSolver_37.java)

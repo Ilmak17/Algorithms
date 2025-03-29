@@ -114,6 +114,7 @@
     - [Pow x n (50)](src/backtracking/PowXN_50.java)
     - [Combination Sum III (216)](src/backtracking/CombinationSumIII_216.java)
     - [N Queens (51)](src/backtracking/NQueens_51.java)
+    - [Sudoku Solver (37)](src/backtracking/SudokuSolver_37.java)
 
 - [Sliding Window](src/slidingwindow/README.md)
     - [Longest Repeating Character Replacement (424)](src/slidingwindow/LongestRepeatingCharacterReplacement_424.java)
