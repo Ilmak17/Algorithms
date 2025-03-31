@@ -135,6 +135,7 @@
     - [Find the Duplicate Number (287)](src/linkedlist/FindDuplicateNumber_287.java)
     - [LRU Cache (146)](src/linkedlist/LRUCache_146.java)
     - [Palindrome Linked List (234)](src/linkedlist/PalindromeLinkedList_234.java)
+    - [Odd Even Linked List (328)](src/linkedlist/OddEvenLinkedList_328.java)
 
 - [Binary Search](src/binarysearch/README.md)
     - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
