@@ -50,7 +50,7 @@
 - **Link to problem**: [LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
 - **Solution Code**: [PalindromeLinkedList_234.java](PalindromeLinkedList_234.java)
 
-### Problem: Odd Even Linked List - LeetCode 328
+### Problem: Intersection of Two Linked Lists - LeetCode 160
 
-- **Link to problem**: [LeetCode 328](https://leetcode.com/problems/odd-even-linked-list/)
-- **Solution Code**: [OddEvenLinkedList_328.java](OddEvenLinkedList_328.java)
+- **Link to problem**: [LeetCode 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- **Solution Code**: [IntersectionTwoLinkedLists_160.java](IntersectionTwoLinkedLists_160.java)
