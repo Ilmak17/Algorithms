@@ -54,3 +54,8 @@
 
 - **Link to problem**: [LeetCode 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - **Solution Code**: [IntersectionTwoLinkedLists_160.java](IntersectionTwoLinkedLists_160.java)
+
+### Problem: Delete the Middle Node of a Linked List - LeetCode 2095
+
+- **Link to problem**: [LeetCode 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- **Solution Code**: [DeleteMiddleNodeLinkedList_2095.java](DeleteMiddleNodeLinkedList_2095.java)

@@ -137,6 +137,7 @@
     - [Palindrome Linked List (234)](src/linkedlist/PalindromeLinkedList_234.java)
     - [Odd Even Linked List (328)](src/linkedlist/OddEvenLinkedList_328.java)
     - [Intersection of Two Linked Lists (160)](src/linkedlist/IntersectionTwoLinkedLists_160.java)
+    - [Delete the Middle Node of a Linked List (2095)](src/linkedlist/DeleteMiddleNodeLinkedList_2095.java)
 
 - [Binary Search](src/binarysearch/README.md)
     - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
