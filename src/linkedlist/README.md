@@ -59,3 +59,8 @@
 
 - **Link to problem**: [LeetCode 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - **Solution Code**: [DeleteMiddleNodeLinkedList_2095.java](DeleteMiddleNodeLinkedList_2095.java)
+
+### Problem: Rotate List - LeetCode 61
+
+- **Link to problem**: [LeetCode 61](https://leetcode.com/problems/rotate-list/)
+- **Solution Code**: [RotateList_61.java](RotateList_61.java)
