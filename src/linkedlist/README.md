@@ -64,3 +64,8 @@
 
 - **Link to problem**: [LeetCode 61](https://leetcode.com/problems/rotate-list/)
 - **Solution Code**: [RotateList_61.java](RotateList_61.java)
+
+### Problem: Sort List - LeetCode 148
+
+- **Link to problem**: [LeetCode 148](https://leetcode.com/problems/sort-list/)
+- **Solution Code**: [SortList_148.java](SortList_148.java)
