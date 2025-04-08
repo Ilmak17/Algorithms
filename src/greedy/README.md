@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 455](https://leetcode.com/problems/assign-cookies/)
 - **Solution Code**: [AssignCookies_455.java](AssignCookies_455.java)
+
+### Problem: Candy - LeetCode 135
+
+- **Link to problem**: [LeetCode 135](https://leetcode.com/problems/candy/)
+- **Solution Code**: [Candy_135.java](Candy_135.java)
