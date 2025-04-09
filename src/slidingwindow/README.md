@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 2762](https://leetcode.com/problems/continuous-subarrays/)
 - **Solution Code**: [ContinuousSubarrays_2762.java](ContinuousSubarrays_2762.java)
+
+### Problem: Continuous Subarrays - LeetCode 2762
+
+- **Link to problem**: [LeetCode 1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+- **Solution Code**: [NumberSubstringsContainingAllThreeCharacters_1358.java](NumberSubstringsContainingAllThreeCharacters_1358.java)
