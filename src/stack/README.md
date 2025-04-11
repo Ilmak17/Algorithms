@@ -35,9 +35,13 @@
 - **Link to problem**: [LeetCode 71](https://leetcode.com/problems/simplify-path/)
 - **Solution Code**: [SimplifyPath_71.java](SimplifyPath_71.java)
 
-
 ### Problem: Basic Calculator II - LeetCode 227
 
 - **Link to problem**: [LeetCode 227](https://leetcode.com/problems/basic-calculator-ii/)
 - **Solution Code**: [BasicCalculatorII_277.java](BasicCalculatorII_277.java)
+
+### Problem: Implement Stack using Queues - LeetCode 225
+
+- **Link to problem**: [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/)
+- **Solution Code**: [ImplementStackUsingQueues_225.java](ImplementStackUsingQueues_225.java)
 

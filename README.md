@@ -99,6 +99,7 @@
     - [Minimum Remove to Make Valid Parentheses (1249)](src/stack/MinimumRemoveMakeValidParentheses_1249.java)
     - [Simplify Path (71)](src/stack/SimplifyPath_71.java)
     - [Basic Calculator II (227)](src/stack/BasicCalculatorII_227.java)
+    - [Implement Stack using Queues (225)](src/stack/ImplementStackUsingQueues_225.java)
 
 - [Backtracking](src/backtracking/README.md)
     - [Generate Parentheses (20)](src/backtracking/GenerateParentheses_22.java)
