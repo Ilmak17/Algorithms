@@ -104,3 +104,7 @@
 ### Problem: Clone Binary Tree With Random Pointer - LeetCode 1485
 - **Link to problem**: [LeetCode 1485](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
 - **Solution Code**: [CloneBinaryTreeWithRandomPointer_1485.java](CloneBinaryTreeWithRandomPointer_1485.java)
+
+### Problem: Minimum Absolute Difference in BST - LeetCode 530
+- **Link to problem**: [LeetCode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+- **Solution Code**: [MinimumAbsoluteDifferenceBST_530.java](MinimumAbsoluteDifferenceBST_530.java)
