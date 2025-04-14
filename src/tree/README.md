@@ -108,3 +108,7 @@
 ### Problem: Minimum Absolute Difference in BST - LeetCode 530
 - **Link to problem**: [LeetCode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - **Solution Code**: [MinimumAbsoluteDifferenceBST_530.java](MinimumAbsoluteDifferenceBST_530.java)
+
+### Problem: Count Complete Tree Nodes - LeetCode 222
+- **Link to problem**: [LeetCode 222](https://leetcode.com/problems/count-complete-tree-nodes/)
+- **Solution Code**: [CountCompleteTreeNodes_222.java](CountCompleteTreeNodes_222.java)

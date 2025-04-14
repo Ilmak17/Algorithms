@@ -188,6 +188,7 @@
     - [Serialize and Deserialize Binary Tree (297)](src/tree/SerializeDeserializeBinaryTree_297.java)
     - [Clone Binary Tree With Random Pointer (1485)](src/tree/CloneBinaryTreeWithRandomPointer_1485.java)
     - [Minimum Absolute Difference in BST (530)](src/tree/MinimumAbsoluteDifferenceBST_530.java)
+    - [Count Complete Tree Nodes (222)](src/tree/CountCompleteTreeNodes_222.java)
 
 - [Heap](src/heap/README.md)
     - [Kth Largest Element in a Stream (703)](src/heap/KthLargestElementInStream_703.java)
