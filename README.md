@@ -250,6 +250,7 @@
     - [Clear Digits (3174)](src/string/ClearDigits_3174.java)
     - [Remove All Occurrences of a Substring (1910)](src/string/RemoveAllOccurrencesSubstring_1910.java)
     - [Longest Common Prefix (14)](src/string/LongestCommonPrefix_14.java)
+    - [Score of a String (3110)](src/string/ScoreOfString_3110.java)
 
 - [Queue](src/queue/README.md)
     - [Number of Recent Calls (933)](src/queue/NumberRecentCalls_933.java)

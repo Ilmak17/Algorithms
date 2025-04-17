@@ -45,3 +45,9 @@
 - **Link to problem**: [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)
 - **Solution Code**: [LongestCommonPrefix_14.java](LongestCommonPrefix_14.java)
 
+
+### Problem: Score of a String - LeetCode 3110
+
+- **Link to problem**: [LeetCode 3110](https://leetcode.com/problems/score-of-a-string)
+- **Solution Code**: [ScoreOfString_3110.java](ScoreOfString_3110.java)
+
