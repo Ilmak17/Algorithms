@@ -244,3 +244,8 @@
 
 - **Link to problem**: [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)
 - **Solution Code**: [FindPivotIndex_724.java](FindPivotIndex_724.java)
+
+### Problem: Sort an Array - LeetCode 912
+
+- **Link to problem**: [LeetCode 912](https://leetcode.com/problems/sort-an-array/)
+- **Solution Code**: [SortArray_912.java](SortArray_912.java)

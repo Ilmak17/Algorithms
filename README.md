@@ -78,6 +78,7 @@
     - [Majority Element II (229)](src/arrayshashing/MajorityElementII_229.java)
     - [Reverse Pairs (493)](src/arrayshashing/ReversePairs_493.java)
     - [Find Pivot Index (724)](src/arrayshashing/FindPivotIndex_724.java)
+    - [Sort an Array (912)](src/arrayshashing/SortArray_912.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)
