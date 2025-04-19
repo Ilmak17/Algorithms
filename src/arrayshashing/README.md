@@ -254,3 +254,8 @@
 
 - **Link to problem**: [LeetCode 119](https://leetcode.com/problems/pascals-triangle-ii/)
 - **Solution Code**: [PascalTriangleII_119.java](PascalTriangleII_119.java)
+
+### Problem: Pascal's Triangle - LeetCode 118
+
+- **Link to problem**: [LeetCode 118](https://leetcode.com/problems/pascals-triangle/)
+- **Solution Code**: [PascalTriangle_118.java](PascalTriangle_118.java)
