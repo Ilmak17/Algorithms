@@ -249,3 +249,8 @@
 
 - **Link to problem**: [LeetCode 912](https://leetcode.com/problems/sort-an-array/)
 - **Solution Code**: [SortArray_912.java](SortArray_912.java)
+
+### Problem: Pascal's Triangle II - LeetCode 119
+
+- **Link to problem**: [LeetCode 119](https://leetcode.com/problems/pascals-triangle-ii/)
+- **Solution Code**: [PascalTriangleII_119.java](PascalTriangleII_119.java)
