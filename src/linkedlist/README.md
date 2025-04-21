@@ -69,3 +69,8 @@
 
 - **Link to problem**: [LeetCode 148](https://leetcode.com/problems/sort-list/)
 - **Solution Code**: [SortList_148.java](SortList_148.java)
+
+### Problem: Plus One Linked List - LeetCode 369
+
+- **Link to problem**: [LeetCode 369](https://leetcode.com/problems/plus-one-linked-list/)
+- **Solution Code**: [PlusOneLinkedList_369.java](PlusOneLinkedList_369.java)

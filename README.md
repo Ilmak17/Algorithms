@@ -145,6 +145,7 @@
     - [Delete the Middle Node of a Linked List (2095)](src/linkedlist/DeleteMiddleNodeLinkedList_2095.java)
     - [Rotate List (61)](src/linkedlist/RotateList_61.java)
     - [Sort List (148)](src/linkedlist/SortList_148.java)
+    - [Plus One Linked List (369)](src/linkedlist/PlusOneLinkedList_369.java)
 
 - [Binary Search](src/binarysearch/README.md)
     - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)
