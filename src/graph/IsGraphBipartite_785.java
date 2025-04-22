@@ -48,14 +48,12 @@ public class IsGraphBipartite_785 {
 
         for (int i = 0; i < n; i++) {
             if (color[i] == -1 && !bfs(i, graph, color)) return false;
-
         }
 
         return true;
     }
 
     private boolean bfs(int start, int[][] graph, int[] color) {
-
         Queue<Integer> queue = new LinkedList<>();
         queue.add(start);
 
