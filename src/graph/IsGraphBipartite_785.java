@@ -18,6 +18,9 @@ package graph;
  * Return true if and only if it is bipartite.
  */
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class IsGraphBipartite_785 {
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
@@ -33,6 +36,40 @@ public class IsGraphBipartite_785 {
                     return false;
                 }
                 unionFind.union(firstNeighbour, neighbor);
+            }
+        }
+
+        return true;
+    }
+
+    private boolean isBipartite2(int[][] graph) {
+        int n = graph.length;
+        int[] color = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            if (color[i] == -1) {
+                if (!bfs(i, n, graph, color)) return false;
+            }
+        }
+
+        return true;
+    }
+
+    private boolean bfs(int start, int n, int[][] graph, int[] color) {
+
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(start);
+
+        color[start] = 1;
+
+        while (!queue.isEmpty()) {
+            int cur = queue.poll();
+
+            for (int neighbor : graph[cur]) {
+                if (color[neighbor] == -1) {
+                    color[neighbor] = 1 - color[cur];
+                    queue.add(neighbor);
+                } else if (color[neighbor] == color[cur]) return false;
             }
         }
 
