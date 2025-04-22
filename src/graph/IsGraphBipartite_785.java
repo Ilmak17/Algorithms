@@ -47,9 +47,8 @@ public class IsGraphBipartite_785 {
         int[] color = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if (color[i] == -1) {
-                if (!bfs(i, n, graph, color)) return false;
-            }
+            if (color[i] == -1 && !bfs(i, n, graph, color)) return false;
+
         }
 
         return true;
