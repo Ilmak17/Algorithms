@@ -47,14 +47,14 @@ public class IsGraphBipartite_785 {
         int[] color = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if (color[i] == -1 && !bfs(i, n, graph, color)) return false;
+            if (color[i] == -1 && !bfs(i, graph, color)) return false;
 
         }
 
         return true;
     }
 
-    private boolean bfs(int start, int n, int[][] graph, int[] color) {
+    private boolean bfs(int start, int[][] graph, int[] color) {
 
         Queue<Integer> queue = new LinkedList<>();
         queue.add(start);
