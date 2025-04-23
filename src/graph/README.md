@@ -104,3 +104,8 @@
 
 - **Link to problem**: [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/)
 - **Solution Code**: [SetMatrixZeroes_73.java](SetMatrixZeroes_73.java)
+
+### Problem: Alien Dictionary - LeetCode 269
+
+- **Link to problem**: [LeetCode 269](https://leetcode.com/problems/alien-dictionary/)
+- **Solution Code**: [AlienDictionary_269.java](AlienDictionary_269.java)
