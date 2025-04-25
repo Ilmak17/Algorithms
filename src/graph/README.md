@@ -114,3 +114,8 @@
 
 - **Link to problem**: [LeetCode 127](https://leetcode.com/problems/word-ladder/)
 - **Solution Code**: [WordLadder_127.java](WordLadder_127.java)
+
+### Problem: Shortest Path in Binary Matrix - LeetCode 1091
+
+- **Link to problem**: [LeetCode 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+- **Solution Code**: [ShortestPathBinaryMatrix_1091.java](ShortestPathBinaryMatrix_1091.java)

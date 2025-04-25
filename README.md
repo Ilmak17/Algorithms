@@ -225,6 +225,7 @@
     - [Path with Maximum Probability (1514)](src/graph/PathMaximumProbability_1514.java)
     - [Alien Dictionary (269)](src/graph/AlienDictionary_269.java)
     - [Word Ladder (127)](src/graph/WordLadder_127.java)
+    - [Shortest Path in Binary Matrix (1091)](src/graph/ShortestPathBinaryMatrix_1091.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
