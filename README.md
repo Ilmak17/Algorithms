@@ -226,6 +226,7 @@
     - [Alien Dictionary (269)](src/graph/AlienDictionary_269.java)
     - [Word Ladder (127)](src/graph/WordLadder_127.java)
     - [Shortest Path in Binary Matrix (1091)](src/graph/ShortestPathBinaryMatrix_1091.java)
+    - [Path With Minimum Effort (1631)](src/graph/PathWithMinimumEffort_1631.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)

@@ -119,3 +119,8 @@
 
 - **Link to problem**: [LeetCode 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 - **Solution Code**: [ShortestPathBinaryMatrix_1091.java](ShortestPathBinaryMatrix_1091.java)
+
+### Problem: Path With Minimum Effort - LeetCode 1631
+
+- **Link to problem**: [LeetCode 1631](https://leetcode.com/problems/path-with-minimum-effort/)
+- **Solution Code**: [PathWithMinimumEffort_1631.java](PathWithMinimumEffort_1631.java)
