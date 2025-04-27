@@ -124,3 +124,8 @@
 
 - **Link to problem**: [LeetCode 1631](https://leetcode.com/problems/path-with-minimum-effort/)
 - **Solution Code**: [PathWithMinimumEffort_1631.java](PathWithMinimumEffort_1631.java)
+
+### Problem: Accounts Merge - LeetCode 721
+
+- **Link to problem**: [LeetCode 721](https://leetcode.com/problems/accounts-merge)
+- **Solution Code**: [AccountsMerge_721.java](AccountsMerge_721.java)

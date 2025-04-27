@@ -227,6 +227,7 @@
     - [Word Ladder (127)](src/graph/WordLadder_127.java)
     - [Shortest Path in Binary Matrix (1091)](src/graph/ShortestPathBinaryMatrix_1091.java)
     - [Path With Minimum Effort (1631)](src/graph/PathWithMinimumEffort_1631.java)
+    - [Accounts Merge (721)](src/graph/AccountsMerge_721.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
