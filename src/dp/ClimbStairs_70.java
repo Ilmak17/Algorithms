@@ -12,7 +12,6 @@ package dp;
 import java.util.Arrays;
 
 public class ClimbStairs_70 {
-
     // top down with memo[]
     public int climbStairsTopDown(int n) {
         int[] memo = new int[n + 1];
@@ -33,7 +32,6 @@ public class ClimbStairs_70 {
 
         return cache[n];
     }
-
 
     // bottom up
     public int climbStairsBottomUp(int n) {
