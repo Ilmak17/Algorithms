@@ -129,3 +129,8 @@
 
 - **Link to problem**: [LeetCode 721](https://leetcode.com/problems/accounts-merge)
 - **Solution Code**: [AccountsMerge_721.java](AccountsMerge_721.java)
+
+### Problem: Number of Operations to Make Network Connected - LeetCode 1319
+
+- **Link to problem**: [LeetCode 1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
+- **Solution Code**: [NumberOperationsMakeNetworkConnected_1319.java](NumberOperationsMakeNetworkConnected_1319.java)
