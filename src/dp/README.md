@@ -99,3 +99,8 @@
 
 - **Link to problem**: [LeetCode 118](https://leetcode.com/problems/pascals-triangle/)
 - **Solution Code**: [PascalsTriangle_118.java](PascalsTriangle_118.java)
+
+### Problem: Triangle - LeetCode 120
+
+- **Link to problem**: [LeetCode 120](https://leetcode.com/problems/triangle/)
+- **Solution Code**: [Triangle_120.java](Triangle_120.java)

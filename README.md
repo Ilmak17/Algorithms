@@ -27,6 +27,7 @@
     - [Interleaving String (97)](src/dp/InterleavingString_97.java)
     - [Edit Distance (72)](src/dp/EditDistance_72.java)
     - [Pascal's Triangle (118)](src/dp/PascalsTriangle_118.java)
+    - [Triangle (120)](src/dp/Triangle_120.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)
