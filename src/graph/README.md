@@ -134,3 +134,8 @@
 
 - **Link to problem**: [LeetCode 1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
 - **Solution Code**: [NumberOperationsMakeNetworkConnected_1319.java](NumberOperationsMakeNetworkConnected_1319.java)
+
+### Problem: Cheapest Flights Within K Stops - LeetCode 787
+
+- **Link to problem**: [LeetCode 787](https://leetcode.com/problems/cheapest-flights-within-k-stops)
+- **Solution Code**: [CheapestFlightsWithinKStops_787.java](CheapestFlightsWithinKStops_787.java)

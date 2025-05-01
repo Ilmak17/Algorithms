@@ -230,6 +230,7 @@
     - [Path With Minimum Effort (1631)](src/graph/PathWithMinimumEffort_1631.java)
     - [Accounts Merge (721)](src/graph/AccountsMerge_721.java)
     - [Number of Operations to Make Network Connected (1319)](src/graph/NumberOperationsMakeNetworkConnected_1319.java)
+    - [Cheapest Flights Within K Stops (787)](src/graph/CheapestFlightsWithinKStops_787.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)
