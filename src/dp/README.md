@@ -104,3 +104,8 @@
 
 - **Link to problem**: [LeetCode 120](https://leetcode.com/problems/triangle/)
 - **Solution Code**: [Triangle_120.java](Triangle_120.java)
+
+### Problem: Largest Divisible Subset - LeetCode 368
+
+- **Link to problem**: [LeetCode 368](https://leetcode.com/problems/largest-divisible-subset/)
+- **Solution Code**: [LargestDivisibleSubset_368.java](LargestDivisibleSubset_368.java)
