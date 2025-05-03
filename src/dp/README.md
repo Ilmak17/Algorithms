@@ -109,3 +109,8 @@
 
 - **Link to problem**: [LeetCode 368](https://leetcode.com/problems/largest-divisible-subset/)
 - **Solution Code**: [LargestDivisibleSubset_368.java](LargestDivisibleSubset_368.java)
+
+### Problem: Distinct Subsequences - LeetCode 115
+
+- **Link to problem**: [LeetCode 115](https://leetcode.com/problems/distinct-subsequences/)
+- **Solution Code**: [DistinctSubsequences_115.java](DistinctSubsequences_115.java)
