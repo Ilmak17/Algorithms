@@ -114,3 +114,8 @@
 
 - **Link to problem**: [LeetCode 115](https://leetcode.com/problems/distinct-subsequences/)
 - **Solution Code**: [DistinctSubsequences_115.java](DistinctSubsequences_115.java)
+
+### Problem: Regular Expression Matching - LeetCode 10
+
+- **Link to problem**: [LeetCode 10](https://leetcode.com/problems/regular-expression-matching/)
+- **Solution Code**: [RegularExpressionMatching_10.java](RegularExpressionMatching_10.java)

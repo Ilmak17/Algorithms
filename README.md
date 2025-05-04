@@ -30,6 +30,7 @@
     - [Triangle (120)](src/dp/Triangle_120.java)
     - [Largest Divisible Subset (368)](src/dp/LargestDivisibleSubset_368.java)
     - [Distinct Subsequences (115)](src/dp/DistinctSubsequences_115.java)
+    - [Regular Expression Matching (10)](src/dp/RegularExpressionMatching_10.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

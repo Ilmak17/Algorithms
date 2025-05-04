@@ -2,7 +2,7 @@ package dp;
 
 /*
  * LeetCode Problem 115: Distinct Subsequences
- * Difficulty: Medium
+ * Difficulty: Hard
  *
  * Problem Statement:
  * Given two strings s and t, return the number of distinct subsequences of s which equals t.
