@@ -45,3 +45,8 @@
 - **Link to problem**: [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/)
 - **Solution Code**: [ImplementStackUsingQueues_225.java](ImplementStackUsingQueues_225.java)
 
+### Problem: Sum of Subarray Ranges - LeetCode 2104
+
+- **Link to problem**: [LeetCode 2104](https://leetcode.com/problems/sum-of-subarray-ranges/)
+- **Solution Code**: [SumSubarrayRanges_2104.java](SumSubarrayRanges_2104.java)
+
