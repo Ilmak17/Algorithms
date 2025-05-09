@@ -44,3 +44,8 @@
 
 - **Link to problem**: [LeetCode 1768](https://leetcode.com/problems/merge-strings-alternately/)
 - **Solution Code**: [MergeStringsAlternately_1768.java](MergeStringsAlternately_1768.java)
+
+### Problem: Trapping Rain Water - LeetCode 42
+
+- **Link to problem**: [LeetCode 42](https://leetcode.com/problems/trapping-rain-watter/)
+- **Solution Code**: [TrappingRainWater_42.java](TrappingRainWater_42.java)
