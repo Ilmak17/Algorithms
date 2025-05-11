@@ -50,3 +50,8 @@
 - **Link to problem**: [LeetCode 2104](https://leetcode.com/problems/sum-of-subarray-ranges/)
 - **Solution Code**: [SumSubarrayRanges_2104.java](SumSubarrayRanges_2104.java)
 
+### Problem: Smallest Subsequence of Distinct Characters - LeetCode 1081
+
+- **Link to problem**: [LeetCode 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+- **Solution Code**: [SmallestSubsequenceDistinctCharacters_1081.java](SmallestSubsequenceDistinctCharacters_1081.java)
+
