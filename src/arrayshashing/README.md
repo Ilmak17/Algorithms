@@ -259,3 +259,8 @@
 
 - **Link to problem**: [LeetCode 118](https://leetcode.com/problems/pascals-triangle/)
 - **Solution Code**: [PascalTriangle_118.java](PascalTriangle_118.java)
+
+### Problem: Ugly Number II - LeetCode 264
+
+- **Link to problem**: [LeetCode 264](https://leetcode.com/problems/ugly-number-ii/)
+- **Solution Code**: [UglyNumberII_264.java](UglyNumberII_264.java)
