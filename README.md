@@ -86,6 +86,7 @@
     - [Pascal's Triangle II (119)](src/arrayshashing/PascalTriangleII_119.java)
     - [Pascal's Triangle (118)](src/arrayshashing/PascalTriangle_118.java)
     - [Ugly Number II (264)](src/arrayshashing/UglyNumberII_264.java)
+    - [Count of Smaller Numbers After Self (315)](src/arrayshashing/CountSmallerNumbersAfterSelf_315.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

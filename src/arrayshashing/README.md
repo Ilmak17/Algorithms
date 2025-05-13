@@ -264,3 +264,8 @@
 
 - **Link to problem**: [LeetCode 264](https://leetcode.com/problems/ugly-number-ii/)
 - **Solution Code**: [UglyNumberII_264.java](UglyNumberII_264.java)
+
+### Problem: Count of Smaller Numbers After Self - LeetCode 315
+
+- **Link to problem**: [LeetCode 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- **Solution Code**: [CountSmallerNumbersAfterSelf_315.java](CountSmallerNumbersAfterSelf_315.java)
