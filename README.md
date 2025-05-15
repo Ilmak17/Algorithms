@@ -88,6 +88,7 @@
     - [Ugly Number II (264)](src/arrayshashing/UglyNumberII_264.java)
     - [Count of Smaller Numbers After Self (315)](src/arrayshashing/CountSmallerNumbersAfterSelf_315.java)
     - [Range Addition (370)](src/arrayshashing/RangeAddition_370.java)
+    - [Corporate Flight Bookings (1109)](src/arrayshashing/CorporateFlightBookings_1109.java)
 
 - [Two pointers](src/arrayshashing/README.md)
     - [Valid Palindrome (125)](src/twopointers/ValidPalindrome_125.java)

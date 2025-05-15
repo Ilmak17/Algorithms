@@ -274,3 +274,8 @@
 
 - **Link to problem**: [LeetCode 370](https://leetcode.com/problems/range-addition/)
 - **Solution Code**: [RangeAddition_370.java](RangeAddition_370.java)
+
+### Problem: Corporate Flight Bookings - LeetCode 1109
+
+- **Link to problem**: [LeetCode 1109](https://leetcode.com/problems/corporate-flight-bookings/)
+- **Solution Code**: [CorporateFlightBookings_1109.java](CorporateFlightBookings_1109.java)
