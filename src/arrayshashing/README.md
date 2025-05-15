@@ -269,3 +269,8 @@
 
 - **Link to problem**: [LeetCode 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - **Solution Code**: [CountSmallerNumbersAfterSelf_315.java](CountSmallerNumbersAfterSelf_315.java)
+
+### Problem: Range Addition - LeetCode 370
+
+- **Link to problem**: [LeetCode 370](https://leetcode.com/problems/range-addition/)
+- **Solution Code**: [RangeAddition_370.java](RangeAddition_370.java)
