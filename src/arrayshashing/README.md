@@ -284,3 +284,8 @@
 
 - **Link to problem**: [LeetCode 75](https://leetcode.com/problems/sort-colors/)
 - **Solution Code**: [SortColors_75.java](SortColors_75.java)
+
+### Problem: Boats to Save People - LeetCode 881
+
+- **Link to problem**: [LeetCode 881](https://leetcode.com/problems/boats-to-save-people/)
+- **Solution Code**: [BoatsSavePeople_881.java](BoatsSavePeople_881.java)
