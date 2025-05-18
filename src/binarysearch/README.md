@@ -94,3 +94,8 @@
 
 - **Link to problem**: [LeetCode 1901](https://leetcode.com/problems/find-a-peak-element-ii/)
 - **Solution Code**: [FindPeakElementII_1901.java](FindPeakElementII_1901.java)
+
+### Problem: Capacity To Ship Packages Within D Days - LeetCode 1101
+
+- **Link to problem**: [LeetCode 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- **Solution Code**: [CapacityToShipPackagesWithinDDays_1011.java](CapacityToShipPackagesWithinDDays_1011.java)
