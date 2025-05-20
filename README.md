@@ -159,6 +159,7 @@
     - [Rotate List (61)](src/linkedlist/RotateList_61.java)
     - [Sort List (148)](src/linkedlist/SortList_148.java)
     - [Plus One Linked List (369)](src/linkedlist/PlusOneLinkedList_369.java)
+    - [Reverse Linked List (92)](src/linkedlist/ReverseLinkedListII_92.java)
 
 - [Binary Search](src/binarysearch/README.md)
     - [Binary Search (704)](src/binarysearch/BinarySearch_704.java)

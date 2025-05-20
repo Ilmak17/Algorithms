@@ -74,3 +74,8 @@
 
 - **Link to problem**: [LeetCode 369](https://leetcode.com/problems/plus-one-linked-list/)
 - **Solution Code**: [PlusOneLinkedList_369.java](PlusOneLinkedList_369.java)
+
+### Problem: Reverse Linked List II - LeetCode 92
+
+- **Link to problem**: [LeetCode 92](https://leetcode.com/problems/reverse-linked-list-ii/)
+- **Solution Code**: [ReverseLinkedListII_92.java](ReverseLinkedListII_92.java)
