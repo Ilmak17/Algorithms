@@ -49,3 +49,8 @@
 
 - **Link to problem**: [LeetCode 135](https://leetcode.com/problems/candy/)
 - **Solution Code**: [Candy_135.java](Candy_135.java)
+
+### Problem: Dota2 Senate - LeetCode 649
+
+- **Link to problem**: [LeetCode 649](https://leetcode.com/problems/dota2-senate/)
+- **Solution Code**: [Dota2Senate_649.java](Dota2Senate_649.java)

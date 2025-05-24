@@ -257,6 +257,7 @@
     - [Valid Parenthesis String (678)](src/greedy/ValidParenthesisString_678.java)
     - [Assign Cookies (455)](src/greedy/AssignCookies_455.java)
     - [Candy (135)](src/greedy/Candy_135.java)
+    - [Dota2 Senate (649)](src/greedy/Dota2Senate_649.java)
 
 - [Intervals](src/intervals/README.md)
     - [Merge Intervals (56)](src/intervals/MergeIntervals_56.java)
