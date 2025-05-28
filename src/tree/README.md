@@ -112,3 +112,7 @@
 ### Problem: Count Complete Tree Nodes - LeetCode 222
 - **Link to problem**: [LeetCode 222](https://leetcode.com/problems/count-complete-tree-nodes/)
 - **Solution Code**: [CountCompleteTreeNodes_222.java](CountCompleteTreeNodes_222.java)
+
+### Problem: House Robber III - LeetCode 337
+- **Link to problem**: [LeetCode 337](https://leetcode.com/problems/house-robber-iii/)
+- **Solution Code**: [HouseRobberIII_337.java](HouseRobberIII_337.java)
