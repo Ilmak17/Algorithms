@@ -217,6 +217,7 @@
     - [K Closest Points to Origin (973)](src/heap/KClosestPointsToOrigin_973.java)
     - [Task Scheduler (621)](src/heap/TaskScheduler_621.java)
     - [Design Twitter (355)](src/heap/DesignTwitter_355.java)
+    - [Reorganize String (767)](src/heap/ReorganizeString_767.java)
 
 - [Graph](src/graph/README.md)
     - [Number of Islands (200)](src/graph/NumberOfIslands_200.java)

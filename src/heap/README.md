@@ -29,3 +29,8 @@
 
 - **Link to problem**: [LeetCode 355](https://leetcode.com/problems/design-twitter/)
 - **Solution Code**: [DesignTwitter_355.java](DesignTwitter_355.java)
+
+### Problem: Reorganize String - LeetCode 767
+
+- **Link to problem**: [LeetCode 767](https://leetcode.com/problems/reorganize-string/)
+- **Solution Code**: [ReorganizeString_767.java](ReorganizeString_767.java)
