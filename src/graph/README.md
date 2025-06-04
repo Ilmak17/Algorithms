@@ -144,3 +144,8 @@
 
 - **Link to problem**: [LeetCode 464](https://leetcode.com/problems/island-perimeter)
 - **Solution Code**: [IslandPerimeter_463.java](IslandPerimeter_463.java)
+
+### Problem: Verifying an Alien Dictionary - LeetCode 953
+
+- **Link to problem**: [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary)
+- **Solution Code**: [VerifyingAlienDictionary_953.java](VerifyingAlienDictionary_953.java)
