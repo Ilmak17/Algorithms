@@ -249,6 +249,7 @@
     - [Cheapest Flights Within K Stops (787)](src/graph/CheapestFlightsWithinKStops_787.java)
     - [Island Perimeter (463)](src/graph/IslandPerimeter_463.java)
     - [Verifying an Alien Dictionary (953)](src/graph/VerifyingAlienDictionary_953.java)
+    - [Open the Lock (752)](src/graph/OpenTheLock_752.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)

@@ -149,3 +149,8 @@
 
 - **Link to problem**: [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary)
 - **Solution Code**: [VerifyingAlienDictionary_953.java](VerifyingAlienDictionary_953.java)
+
+### Problem: Open the Lock - LeetCode 752
+
+- **Link to problem**: [LeetCode 752](https://leetcode.com/problems/open-the-lock)
+- **Solution Code**: [OpenTheLock_752.java](OpenTheLock_752.java)
