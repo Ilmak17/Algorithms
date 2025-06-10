@@ -36,6 +36,7 @@ public class CourseScheduleII_210 {
         res = new int[numCourses];
         visited = new boolean[numCourses];
         onStack = new boolean[numCourses];
+        
         k = numCourses - 1;
 
         for (int i = 0; i < numCourses; i++) {
