@@ -29,7 +29,6 @@ public class PathWithMinimumEffort_1631 {
 
         for (int[] row : minEffort) Arrays.fill(row, Integer.MAX_VALUE);
         minEffort[0][0] = 0;
-
         int[][] directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
 
         while (!queue.isEmpty()) {
