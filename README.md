@@ -250,6 +250,7 @@
     - [Island Perimeter (463)](src/graph/IslandPerimeter_463.java)
     - [Verifying an Alien Dictionary (953)](src/graph/VerifyingAlienDictionary_953.java)
     - [Open the Lock (752)](src/graph/OpenTheLock_752.java)
+    - [Min Cost to Connect All Points (1584)](src/graph/MinCostConnectAllPoints_1584.java)
 
 - [Greedy](src/greedy/README.md)
     - [Maximum Subarray (53)](src/greedy/MaximumSubarray_53.java)

@@ -154,3 +154,8 @@
 
 - **Link to problem**: [LeetCode 752](https://leetcode.com/problems/open-the-lock)
 - **Solution Code**: [OpenTheLock_752.java](OpenTheLock_752.java)
+
+### Problem: Min Cost to Connect All Points - LeetCode 1584
+
+- **Link to problem**: [LeetCode 1584](https://leetcode.com/problems/min-cost-to-connect-all-points)
+- **Solution Code**: [MinCostConnectAllPoints_1584.java](MinCostConnectAllPoints_1584.java)
