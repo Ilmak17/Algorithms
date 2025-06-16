@@ -31,6 +31,7 @@
     - [Largest Divisible Subset (368)](src/dp/LargestDivisibleSubset_368.java)
     - [Distinct Subsequences (115)](src/dp/DistinctSubsequences_115.java)
     - [Regular Expression Matching (10)](src/dp/RegularExpressionMatching_10.java)
+    - [N-th Tribonacci Number (1137)](src/dp/NthTribonacciNumber_1137.java)
 
 - [Arrays & Hashing](src/arrayshashing/README.md)
     - [Group Anagrams (49)](src/arrayshashing/GroupAnagrams_49.java)

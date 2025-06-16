@@ -119,3 +119,8 @@
 
 - **Link to problem**: [LeetCode 10](https://leetcode.com/problems/regular-expression-matching/)
 - **Solution Code**: [RegularExpressionMatching_10.java](RegularExpressionMatching_10.java)
+
+### Problem: N-th Tribonacci Number - LeetCode 1137
+
+- **Link to problem**: [LeetCode 1137](https://leetcode.com/problems/n-th-tribonacci-number/)
+- **Solution Code**: [NthTribonacciNumber_1137.java](NthTribonacciNumber_1137.java)
