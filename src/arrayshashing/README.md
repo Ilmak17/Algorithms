@@ -289,3 +289,8 @@
 
 - **Link to problem**: [LeetCode 881](https://leetcode.com/problems/boats-to-save-people/)
 - **Solution Code**: [BoatsSavePeople_881.java](BoatsSavePeople_881.java)
+
+### Problem: Minimum Deletions to Make String K-Special - LeetCode 3085
+
+- **Link to problem**: [LeetCode 3085](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/)
+- **Solution Code**: [MinimumDeletionsMakeStringSpecial_3085.java](MinimumDeletionsMakeStringSpecial_3085.java)
