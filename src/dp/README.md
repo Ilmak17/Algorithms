@@ -124,3 +124,8 @@
 
 - **Link to problem**: [LeetCode 1137](https://leetcode.com/problems/n-th-tribonacci-number/)
 - **Solution Code**: [NthTribonacciNumber_1137.java](NthTribonacciNumber_1137.java)
+
+### Problem: Integer Break - LeetCode 343
+
+- **Link to problem**: [LeetCode 343](https://leetcode.com/problems/integer-break/)
+- **Solution Code**: [IntegerBreak_343.java](IntegerBreak_343.java)
