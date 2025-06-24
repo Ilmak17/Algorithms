@@ -43,7 +43,7 @@ public class BusRoutes_815 {
         }
 
         Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[] { source, 0 });
+        queue.add(new int[]{source, 0});
 
         Set<Integer> visitedStops = new HashSet<>();
         visitedStops.add(source);
@@ -64,7 +64,7 @@ public class BusRoutes_815 {
                     if (nextStop == target)
                         return buses + 1;
                     if (visitedStops.add(nextStop)) {
-                        queue.add(new int[] { nextStop, buses + 1 });
+                        queue.add(new int[]{nextStop, buses + 1});
                     }
                 }
             }
