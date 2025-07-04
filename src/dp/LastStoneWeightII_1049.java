@@ -19,7 +19,7 @@ public class LastStoneWeightII_1049 {
         Integer[][] memo = new Integer[stones.length][target + 1];
         int best = dfs(stones, 0, target, memo);
 
-        return total - 2 * best; // total - 2 * s1 = |s1 - s2|
+        return total - 2 * best;
     }
 
     private int dfs(int[] stones, int i, int remaining, Integer[][] memo) {
