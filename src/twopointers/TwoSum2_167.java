@@ -38,7 +38,6 @@ public class TwoSum2_167 {
 
     public int[] twoSum2(int[] nums, int target) {
         int n = nums.length;
-
         int[] ans = new int[2];
 
         int[][] eleIndex = new int[n][2];
