@@ -16,6 +16,7 @@ package twopointers;
 
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class TwoSum2_167 {
     public int[] twoSum(int[] numbers, int target) {
@@ -45,8 +46,7 @@ public class TwoSum2_167 {
             eleIndex[i][0] = nums[i];
             eleIndex[i][1] = i;
         }
-
-        Arrays.sort(eleIndex, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(eleIndex, Comparator.comparingInt(a -> a[0]));
 
         int left = 0, right = n - 1;
 
