@@ -14,7 +14,6 @@ public class MajorityElement_169 {
     public int majorityElement(int[] nums) {
         int res = 0;
         int counter = 0;
-
         for (int el : nums) {
             if (counter == 0) {
                 res = el;
