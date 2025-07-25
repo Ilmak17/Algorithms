@@ -15,7 +15,7 @@ package arrayshashing;
 import java.util.Arrays;
 
 public class CountNumberTeams_1395 {
-ав
+
     public void update(int index, int value, int low, int high, int position, int[] segTree) {
         if (low == high) {
             segTree[index] += value;
