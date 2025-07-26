@@ -27,6 +27,7 @@ public class CountNumberTeams_1395 {
             } else {
                 update(2 * index + 2, value, mid + 1, high, position, segTree);
             }
+
             segTree[index] = segTree[2 * index + 1] + segTree[2 * index + 2];
         }
     }
