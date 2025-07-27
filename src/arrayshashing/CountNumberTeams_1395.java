@@ -20,6 +20,7 @@ public class CountNumberTeams_1395 {
         if (low == high) {
             segTree[index] += value;
         } else {
+
             int mid = low + (high - low) / 2;
 
             if (position <= mid && position >= low) {
