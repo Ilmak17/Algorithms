@@ -18,7 +18,7 @@ public class SurroundedRegions_130 {
 
     public void solve(char[][] board) {
         int rows = board.length;
-        int cols = board[0].length;
+        int cols = board[0].length;123
 
         for (int i = 0; i < rows; i++) {
             if (board[i][0] == 'O') {
