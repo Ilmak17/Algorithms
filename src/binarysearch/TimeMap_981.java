@@ -43,31 +43,34 @@ class Node {
 }
 
 public class TimeMap_981 {
-    private final Map<String, List<Node>> map;
+    private final Map<String, List<Node>> timeMap;
 
     public TimeMap_981() {
-        map = new HashMap<>();
+        timeMap = new HashMap<>();
     }
 
     public void set(String key, String value, int timestamp) {
-        map.computeIfAbsent(key, k -> new ArrayList<>()).add(new Node(timestamp, value));
+        timeMap.computeIfAbsent(key, k -> new ArrayList<>())
+                .add(new Node(timestamp, value));
     }
 
     public String get(String key, int timestamp) {
-        List<Node> nodes = map.getOrDefault(key, new ArrayList<>());
-        int left = 0;
-        int right = nodes.size() - 1;
-        String result = "";
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        if (!timeMap.containsKey(key)) return "";
+
+        List<Node> nodes = timeMap.get(key);
+        int low = 0;
+        int high = nodes.size() - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
             if (nodes.get(mid).getTimestamp() <= timestamp) {
-                result = nodes.get(mid).getValue();
-                left = mid + 1;
+                low = mid + 1;
             } else {
-                right = mid - 1;
+                high = mid - 1;
             }
         }
 
-        return result;
+        return high >= 0 ? nodes.get(high).getValue() : "";
     }
 }
