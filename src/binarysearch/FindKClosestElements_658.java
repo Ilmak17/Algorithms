@@ -13,6 +13,7 @@ package binarysearch;
  * |a - x| == |b - x| and a < b
  */
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class FindKClosestElements_658 {
