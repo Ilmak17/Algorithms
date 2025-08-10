@@ -11,23 +11,21 @@ package binarysearch;
 
 public class SqrtX_69 {
     public int mySqrt(int x) {
-        int res = 0;
-        int left = 0;
-        int right = x;
+        int low = 1;
+        int high = x;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if ((long) mid * mid > x) {
-                right = mid - 1;
-            } else if ((long) mid * mid < x) {
-                left = mid + 1;
-                res = mid;
-            } else {
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            long square = (long) mid * mid;
+            if (square == x) {
                 return mid;
+            } else if (square > x) {
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
 
-        return res;
+        return high;
     }
 }
