@@ -26,4 +26,27 @@ public class LongestIncreasingSubsequence_300 {
 
         return maxLength;
     }
+
+    public int lengthOfLISBinarySearch(int[] nums) {
+        if (nums.length == 0) return 0;
+
+        int[] tails = new int[nums.length];
+        int size = 0;
+
+        for (int x : nums) {
+            int i = lowerBound(tails, 0, size, x);
+            tails[i] = x;
+            if (i == size) size++;
+        }
+        return size;
+    }
+
+    private int lowerBound(int[] a, int lo, int hi, int target) {
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+            if (a[mid] >= target) hi = mid;
+            else lo = mid + 1;
+        }
+        return lo;
+    }
 }
