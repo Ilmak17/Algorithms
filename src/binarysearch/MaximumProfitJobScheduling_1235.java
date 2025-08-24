@@ -19,6 +19,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 public class MaximumProfitJobScheduling_1235 {
+
     class The_Comparator implements Comparator<ArrayList<Integer>> {
         public int compare(ArrayList<Integer> list1, ArrayList<Integer> list2) {
             return list1.get(0) - list2.get(0);
