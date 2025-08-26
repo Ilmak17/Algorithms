@@ -20,7 +20,7 @@ import java.util.PriorityQueue;
 
 public class MaximumProfitJobScheduling_1235 {
 
-    class The_Comparator implements Comparator<ArrayList<Integer>> {
+    static class The_Comparator implements Comparator<ArrayList<Integer>> {
         public int compare(ArrayList<Integer> list1, ArrayList<Integer> list2) {
             return list1.get(0) - list2.get(0);
         }
@@ -30,10 +30,10 @@ public class MaximumProfitJobScheduling_1235 {
         int n = jobs.size(), maxProfit = 0;
         PriorityQueue<ArrayList<Integer>> pq = new PriorityQueue<>(new The_Comparator());
 
-        for (int i = 0; i < n; i++) {
-            int start = jobs.get(i).get(0), end = jobs.get(i).get(1), profit = jobs.get(i).get(2);
+        for (List<Integer> job : jobs) {
+            int start = job.get(0), end = job.get(1), profit = job.get(2);
 
-            while (pq.isEmpty() == false && start >= pq.peek().get(0)) {
+            while (!pq.isEmpty() && start >= pq.peek().get(0)) {
                 maxProfit = Math.max(maxProfit, pq.peek().get(1));
                 pq.remove();
             }
@@ -45,7 +45,7 @@ public class MaximumProfitJobScheduling_1235 {
             pq.add(combinedJob);
         }
 
-        while (pq.isEmpty() == false) {
+        while (!pq.isEmpty()) {
             maxProfit = Math.max(maxProfit, pq.peek().get(1));
             pq.remove();
         }
