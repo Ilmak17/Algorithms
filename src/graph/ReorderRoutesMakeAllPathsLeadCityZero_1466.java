@@ -17,6 +17,6 @@ package graph;
 
 public class ReorderRoutesMakeAllPathsLeadCityZero_1466 {
     public int minReorder(int n, int[][] connections) {
-
+        return 1;
     }
 }
