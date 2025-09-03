@@ -15,8 +15,45 @@ package graph;
  */
 
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class ReorderRoutesMakeAllPathsLeadCityZero_1466 {
+    static class Node {
+        int node;
+        boolean isInDegree;
+
+        public Node(int node, boolean isInDegree) {
+            this.node = node;
+            this.isInDegree = isInDegree;
+        }
+    }
     public int minReorder(int n, int[][] connections) {
-        return 1;
+        Map<Integer, List<Node>> adj = new HashMap<>();
+
+        for (int[] con : connections) {
+            adj.computeIfAbsent(con[0], k -> new ArrayList<>())
+                    .add(new Node(con[1], false));
+
+            adj.computeIfAbsent(con[1], k -> new ArrayList<>())
+                    .add(new Node(con[0], true));
+        }
+
+        boolean[] visited = new boolean[n];
+        return estimateMinReorder(0, visited, adj);
+    }
+
+    private int estimateMinReorder(int node, boolean[] visited, Map<Integer, List<Node>> adj) {
+        visited[node] = true;
+        int count = 0;
+        for (Node nei : adj.get(node)) {
+            if (visited[nei.node]) continue;
+            if (!nei.isInDegree) count++;
+            count += estimateMinReorder(nei.node, visited, adj);
+        }
+
+        return count;
     }
 }
