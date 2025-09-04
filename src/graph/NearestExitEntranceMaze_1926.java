@@ -15,6 +15,7 @@ package graph;
  */
 
 
+import java.util.LinkedList;
 import java.util.Queue;
 
 public class NearestExitEntranceMaze_1926 {
