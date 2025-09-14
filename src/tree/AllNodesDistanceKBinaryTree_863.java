@@ -25,14 +25,14 @@ public class AllNodesDistanceKBinaryTree_863 {
         List<Integer> result = new ArrayList<>();
         Set<TreeNode> visited = new HashSet<>();
 
-        Queue<Pair<TreeNode, Integer>> queue = new LinkedList<>();
-        queue.add(new Pair<>(target, 0));
+        Queue<Pair> queue = new LinkedList<>();
+        queue.add(new Pair(target, 0));
         visited.add(target);
 
         while (!queue.isEmpty()) {
-            Pair<TreeNode, Integer> pair = queue.poll();
-            TreeNode node = pair.getKey();
-            int dist = pair.getValue();
+            Pair pair = queue.poll();
+            TreeNode node = pair.node;
+            int dist = pair.x;
 
             if (dist == k) {
                 result.add(node.val);
@@ -42,7 +42,7 @@ public class AllNodesDistanceKBinaryTree_863 {
             for (TreeNode neighbor : getNeighbors(node, parents)) {
                 if (!visited.contains(neighbor)) {
                     visited.add(neighbor);
-                    queue.add(new Pair<>(neighbor, dist + 1));
+                    queue.add(new Pair(neighbor, dist + 1));
                 }
             }
         }
